@@ -15,7 +15,7 @@ __Dockerized:__ Consistent, reproducible environments for local and production b
 
 ## Project Structure
 ```bash
-WAYA-Third-party-bots/   
+Transaction-Reports-Download-Bots/   
 ├── src/                      # Source code files 
 │   ├── utils/                # Utility modules  
 │   │   └── logger.py         # Logging utilities  
