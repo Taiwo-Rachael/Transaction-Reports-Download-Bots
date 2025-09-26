@@ -1,5 +1,5 @@
 # Third Party Reports Downloader Bots
-FastAPI service for bots that download transaction reports from third-party platforms like NIBSS and INTERSWITCH. The application is containerized with Docker for seamless deployment.
+FastAPI service for bots that download transaction reports from NIBSS and INTERSWITCH report portal. The application is containerized with Docker for seamless deployment.
   
 ## Table of Contents
 1. [Features](#features)
