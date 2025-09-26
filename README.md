@@ -34,8 +34,8 @@ WAYA-Third-party-bots/
 ## Local Development
 ### 1. Clone the Repository:  
 ```bash
-git clone https://github.com/WAYA-MULTI-LINK/WAYA-Third-party-bots.git
-cd WAYA-Third-party-bots
+git clone https://github.com/Taiwo-Rachael/Transaction-Reports-Download-Bots.git
+cd Transaction-Reports-Download-Bots
 ```
  
 ### 2. Create and Activate a Virtual Environment:
@@ -58,7 +58,7 @@ The API will be available at http://127.0.0.1:8000.
 ## Docker Setup
 ### Build the Docker Image
 ```bash
-docker build -t wayalinks/third-party-bots .
+docker build -t taiworachel/reports-downloader-bots .
 ```
 ### Run a Container
 ```bash
@@ -68,7 +68,7 @@ docker run --rm \
   --env DISPLAY=$(grep nameserver /etc/resolv.conf | awk '{print $2}'):0.0 \
   -v ~/Downloads:/root/Downloads \
   -v /tmp/.X11-unix:/tmp/.X11-unix \
-  wayalinks/third-party-bots
+  taiworachel/reports-downloader-bots
 ```
 The application is now available at http://localhost:8000
 
