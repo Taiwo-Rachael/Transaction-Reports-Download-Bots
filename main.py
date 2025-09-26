@@ -17,9 +17,9 @@ print(f"USER: {os.getenv('NIP_USER')},PASSWORD: {os.getenv('NIP_PW')}")
 print(f"ISW_USER:{os.getenv('ISW_USER')}, ISW_PW: {os.getenv('ISW_PW')}")
 
 app = FastAPI(
-    title="Third Party Reports Downloader API",
+    title="Transaction Reports Downloader API",
     version="1.0.0",
-    description="Bots for Third Party Reports Download",
+    description="Bots for Downloading Reports",
 )
 
 app.add_middleware(
@@ -96,3 +96,4 @@ async def download_isw_reports(
         tb = traceback.format_exc()
         error_message = f"Error during download: {e}\n{tb}"
         print(error_message)
+
