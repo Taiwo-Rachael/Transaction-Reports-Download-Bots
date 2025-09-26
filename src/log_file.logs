@@ -1,0 +1,1497 @@
+2025-08-08 16:58:53,431 [INFO] Will watch for changes in these directories: ['/home/taiwo_rachel/projects/NIP-Download-Bot']
+2025-08-08 16:58:53,448 [INFO] Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-08-08 16:58:53,459 [INFO] Started reloader process [12453] using WatchFiles
+2025-08-08 16:58:59,406 [INFO] Started server process [12459]
+2025-08-08 16:58:59,411 [INFO] Waiting for application startup.
+2025-08-08 16:58:59,417 [INFO] Application startup complete.
+2025-08-08 16:58:59,927 [INFO] 1 change detected
+2025-08-08 16:59:46,382 [INFO] Navigating to login …
+2025-08-08 16:59:46,671 [INFO] 1 change detected
+2025-08-08 16:59:57,587 [INFO] 📅  From: 01/08/2025
+2025-08-08 16:59:57,588 [INFO] 📅  To:   05/08/2025
+2025-08-08 16:59:58,237 [INFO] 1 change detected
+2025-08-08 17:00:00,286 [INFO] 1 change detected
+2025-08-08 17:00:01,440 [INFO] 1 change detected
+2025-08-08 17:00:02,745 [INFO] 1 change detected
+2025-08-08 17:00:03,800 [INFO] 1 change detected
+2025-08-08 17:00:05,077 [INFO] 1 change detected
+2025-08-08 17:00:06,242 [INFO] 1 change detected
+2025-08-08 17:00:08,200 [INFO] 1 change detected
+2025-08-08 17:00:08,209 [INFO] Reload triggered
+2025-08-08 17:00:08,273 [INFO] Table ready – starting downloads
+2025-08-08 17:00:09,304 [INFO] 1 change detected
+2025-08-08 17:00:10,384 [INFO] Found 2 download buttons on page 1
+2025-08-08 17:00:10,416 [INFO] 1 change detected
+2025-08-08 17:00:11,494 [INFO] ⬇️    1 saved WAYA MFB_20250804_095959.zip
+2025-08-08 17:00:12,155 [INFO] 1 change detected
+2025-08-08 17:00:13,535 [INFO] 1 change detected
+2025-08-08 17:00:13,864 [INFO] ⬇️    2 saved WAYA MFB_20250802_165959.zip
+2025-08-08 17:00:14,993 [INFO] Finished – 2 files downloaded.
+2025-08-08 17:00:15,274 [INFO] 1 change detected
+2025-08-08 17:00:16,780 [INFO] 1 change detected
+2025-08-08 17:00:17,835 [INFO] 1 change detected
+2025-08-08 17:00:18,990 [INFO] 1 change detected
+2025-08-08 17:00:19,995 [INFO] 1 change detected
+2025-08-08 17:00:21,300 [INFO] 1 change detected
+2025-08-08 17:00:22,203 [INFO] 1 change detected
+2025-08-08 17:00:25,530 [INFO] 1 change detected
+2025-08-08 17:00:26,483 [INFO] 1 change detected
+2025-08-08 17:00:27,939 [INFO] 1 change detected
+2025-08-08 17:00:29,096 [INFO] 1 change detected
+2025-08-08 17:00:30,204 [INFO] 1 change detected
+2025-08-08 17:00:31,159 [INFO] 1 change detected
+2025-08-08 17:00:32,416 [INFO] 1 change detected
+2025-08-08 17:00:33,422 [INFO] 1 change detected
+2025-08-08 17:00:34,678 [INFO] 1 change detected
+2025-08-08 17:00:35,991 [INFO] 1 change detected
+2025-08-08 17:00:37,412 [INFO] 1 change detected
+2025-08-08 17:00:38,478 [INFO] 1 change detected
+2025-08-08 17:00:39,783 [INFO] 1 change detected
+2025-08-08 17:00:40,786 [INFO] 1 change detected
+2025-08-08 17:00:41,942 [INFO] 1 change detected
+2025-08-08 17:00:42,996 [INFO] 1 change detected
+2025-08-08 17:00:44,351 [INFO] 1 change detected
+2025-08-08 17:00:45,354 [INFO] 1 change detected
+2025-08-08 17:00:46,610 [INFO] 1 change detected
+2025-08-08 17:00:47,564 [INFO] 1 change detected
+2025-08-08 17:00:48,818 [INFO] 1 change detected
+2025-08-08 17:00:49,772 [INFO] 1 change detected
+2025-08-08 17:00:51,081 [INFO] 1 change detected
+2025-08-08 17:00:52,287 [INFO] 1 change detected
+2025-08-08 17:00:53,495 [INFO] 1 change detected
+2025-08-08 17:00:54,652 [INFO] 1 change detected
+2025-08-08 17:00:56,657 [INFO] 1 change detected
+2025-08-08 17:00:57,711 [INFO] 1 change detected
+2025-08-08 17:00:58,815 [INFO] 1 change detected
+2025-08-08 17:00:59,819 [INFO] 1 change detected
+2025-08-08 17:01:01,024 [INFO] 1 change detected
+2025-08-08 17:01:01,927 [INFO] 1 change detected
+2025-08-08 17:08:12,775 [INFO] 1 change detected
+2025-08-08 17:08:13,930 [INFO] 1 change detected
+2025-08-08 17:08:15,286 [INFO] 1 change detected
+2025-08-08 17:08:16,541 [INFO] 1 change detected
+2025-08-08 17:08:17,545 [INFO] 1 change detected
+2025-08-08 17:08:18,549 [INFO] 1 change detected
+2025-08-08 17:08:19,753 [INFO] 1 change detected
+2025-08-08 17:08:21,612 [INFO] 1 change detected
+2025-08-08 17:08:23,710 [INFO] 1 change detected
+2025-08-08 17:08:24,771 [INFO] 1 change detected
+2025-08-08 17:08:26,076 [INFO] 1 change detected
+2025-08-08 17:08:27,330 [INFO] 1 change detected
+2025-08-08 17:08:28,435 [INFO] 1 change detected
+2025-08-08 17:08:29,943 [INFO] 1 change detected
+2025-08-08 17:08:31,048 [INFO] 1 change detected
+2025-08-08 17:08:32,452 [INFO] 1 change detected
+2025-08-08 17:08:34,158 [INFO] 1 change detected
+2025-08-08 17:08:35,411 [INFO] 1 change detected
+2025-08-08 17:08:36,565 [INFO] 1 change detected
+2025-08-08 17:08:37,569 [INFO] 1 change detected
+2025-08-08 17:08:38,572 [INFO] 1 change detected
+2025-08-08 17:08:39,726 [INFO] 1 change detected
+2025-08-08 17:08:40,780 [INFO] 1 change detected
+2025-08-08 17:08:41,885 [INFO] 1 change detected
+2025-08-08 17:08:42,840 [INFO] 1 change detected
+2025-08-08 17:08:44,146 [INFO] 1 change detected
+2025-08-08 17:08:45,099 [INFO] 1 change detected
+2025-08-08 17:08:46,154 [INFO] 1 change detected
+2025-08-08 17:08:47,158 [INFO] 1 change detected
+2025-08-08 17:08:48,363 [INFO] 1 change detected
+2025-08-08 17:08:49,318 [INFO] 1 change detected
+2025-08-08 17:08:50,473 [INFO] 1 change detected
+2025-08-08 17:08:51,578 [INFO] 1 change detected
+2025-08-08 17:08:53,541 [INFO] 1 change detected
+2025-08-08 17:08:55,078 [INFO] 1 change detected
+2025-08-08 17:08:56,688 [INFO] 1 change detected
+2025-08-08 17:08:58,144 [INFO] 1 change detected
+2025-08-08 17:08:59,303 [INFO] 1 change detected
+2025-08-08 17:09:00,509 [INFO] 1 change detected
+2025-08-08 17:09:01,766 [INFO] 1 change detected
+2025-08-08 17:09:02,921 [INFO] 1 change detected
+2025-08-08 17:09:04,275 [INFO] 1 change detected
+2025-08-08 17:09:05,378 [INFO] 1 change detected
+2025-08-08 17:09:06,632 [INFO] 1 change detected
+2025-08-08 17:09:07,636 [INFO] 1 change detected
+2025-08-08 17:09:08,639 [INFO] 1 change detected
+2025-08-08 17:09:09,543 [INFO] 1 change detected
+2025-08-08 17:09:10,497 [INFO] 1 change detected
+2025-08-08 17:09:11,601 [INFO] 1 change detected
+2025-08-08 17:09:12,556 [INFO] 1 change detected
+2025-08-08 17:09:13,660 [INFO] 1 change detected
+2025-08-08 17:09:14,664 [INFO] 1 change detected
+2025-08-08 17:09:15,820 [INFO] 1 change detected
+2025-08-08 17:09:16,825 [INFO] 1 change detected
+2025-08-08 17:09:18,232 [INFO] 1 change detected
+2025-08-08 17:09:19,388 [INFO] 1 change detected
+2025-08-08 17:09:20,743 [INFO] 1 change detected
+2025-08-08 17:09:21,698 [INFO] 1 change detected
+2025-08-08 17:09:22,953 [INFO] 1 change detected
+2025-08-08 17:09:25,190 [INFO] 1 change detected
+2025-08-08 17:09:27,452 [INFO] 1 change detected
+2025-08-08 17:09:28,513 [INFO] 1 change detected
+2025-08-08 17:09:29,616 [INFO] 1 change detected
+2025-08-08 17:09:30,670 [INFO] 1 change detected
+2025-08-08 17:09:31,724 [INFO] 1 change detected
+2025-08-08 17:09:32,728 [INFO] 1 change detected
+2025-08-08 17:09:34,035 [INFO] 1 change detected
+2025-08-08 17:09:34,989 [INFO] 1 change detected
+2025-08-08 17:11:42,251 [INFO] Shutting down
+2025-08-08 17:11:42,354 [INFO] Waiting for application shutdown.
+2025-08-08 17:11:42,355 [INFO] Application shutdown complete.
+2025-08-08 17:11:42,357 [INFO] Finished server process [12459]
+2025-08-08 17:11:42,611 [INFO] Stopping reloader process [12453]
+2025-08-08 17:27:23,555 [INFO] Will watch for changes in these directories: ['/home/taiwo_rachel/projects/NIP-Download-Bot']
+2025-08-08 17:27:23,580 [INFO] Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-08-08 17:27:23,619 [INFO] Started reloader process [13768] using WatchFiles
+2025-08-08 17:27:31,639 [INFO] Started server process [13779]
+2025-08-08 17:27:31,649 [INFO] Waiting for application startup.
+2025-08-08 17:27:31,652 [INFO] Application startup complete.
+2025-08-08 17:27:32,407 [INFO] 1 change detected
+2025-08-08 17:27:33,714 [INFO] 1 change detected
+2025-08-08 17:27:34,819 [INFO] 1 change detected
+2025-08-08 17:27:36,125 [INFO] 1 change detected
+2025-08-08 17:27:37,128 [INFO] 1 change detected
+2025-08-08 17:27:38,186 [INFO] 1 change detected
+2025-08-08 17:27:39,341 [INFO] 1 change detected
+2025-08-08 17:27:41,021 [INFO] 1 change detected
+2025-08-08 17:27:42,533 [INFO] 1 change detected
+2025-08-08 17:27:44,243 [INFO] 1 change detected
+2025-08-08 17:27:45,749 [INFO] 1 change detected
+2025-08-08 17:27:46,803 [INFO] 1 change detected
+2025-08-08 17:27:48,008 [INFO] 1 change detected
+2025-08-08 17:27:49,063 [INFO] 1 change detected
+2025-08-08 17:27:50,117 [INFO] 1 change detected
+2025-08-08 17:27:51,373 [INFO] 1 change detected
+2025-08-08 17:27:52,578 [INFO] 1 change detected
+2025-08-08 17:27:53,582 [INFO] 1 change detected
+2025-08-08 17:27:54,737 [INFO] 1 change detected
+2025-08-08 17:27:55,893 [INFO] 1 change detected
+2025-08-08 17:27:57,199 [INFO] 1 change detected
+2025-08-08 17:27:58,204 [INFO] 1 change detected
+2025-08-08 17:27:59,408 [INFO] 1 change detected
+2025-08-08 17:28:01,155 [INFO] 1 change detected
+2025-08-08 17:28:03,443 [INFO] 1 change detected
+2025-08-08 17:28:04,609 [INFO] 1 change detected
+2025-08-08 17:28:05,827 [INFO] 1 change detected
+2025-08-08 17:28:07,512 [INFO] 1 change detected
+2025-08-08 17:28:08,300 [INFO] Navigating to login …
+2025-08-08 17:28:09,020 [INFO] 1 change detected
+2025-08-08 17:28:10,458 [INFO] 1 change detected
+2025-08-08 17:28:12,224 [INFO] 1 change detected
+2025-08-08 17:28:13,802 [INFO] 1 change detected
+2025-08-08 17:28:15,383 [INFO] 📅  From: 01/08/2025
+2025-08-08 17:28:15,384 [INFO] 📅  To:   05/08/2025
+2025-08-08 17:28:15,588 [INFO] 1 change detected
+2025-08-08 17:28:26,130 [INFO] Reload triggered
+2025-08-08 17:28:26,200 [INFO] Table ready – starting downloads
+2025-08-08 17:28:27,138 [INFO] 1 change detected
+2025-08-08 17:28:28,285 [INFO] Found 2 download buttons on page 1
+2025-08-08 17:28:28,292 [INFO] 1 change detected
+2025-08-08 17:28:29,203 [INFO] ⬇️    1 saved WAYA MFB_20250804_095959.zip
+2025-08-08 17:28:29,865 [INFO] 3 changes detected
+2025-08-08 17:28:31,544 [INFO] ⬇️    2 saved WAYA MFB_20250802_165959.zip
+2025-08-08 17:28:31,747 [INFO] 3 changes detected
+2025-08-08 17:28:34,599 [INFO] Finished – 2 files downloaded.
+2025-08-08 17:28:35,526 [INFO] 1 change detected
+2025-08-08 17:28:36,630 [INFO] 1 change detected
+2025-08-08 17:28:38,035 [INFO] 1 change detected
+2025-08-08 17:28:39,088 [INFO] 1 change detected
+2025-08-08 17:28:40,460 [INFO] 1 change detected
+2025-08-08 17:28:42,367 [INFO] 1 change detected
+2025-08-08 17:28:43,774 [INFO] 1 change detected
+2025-08-08 17:28:44,878 [INFO] 1 change detected
+2025-08-08 17:28:45,931 [INFO] 1 change detected
+2025-08-08 17:28:47,085 [INFO] 1 change detected
+2025-08-08 17:28:48,243 [INFO] 1 change detected
+2025-08-08 17:28:49,347 [INFO] 1 change detected
+2025-08-08 17:28:50,501 [INFO] 1 change detected
+2025-08-08 17:28:51,755 [INFO] 1 change detected
+2025-08-08 17:28:52,708 [INFO] 1 change detected
+2025-08-08 17:28:53,965 [INFO] 1 change detected
+2025-08-08 17:28:55,068 [INFO] 1 change detected
+2025-08-08 17:28:56,279 [INFO] 1 change detected
+2025-08-08 17:28:57,333 [INFO] 1 change detected
+2025-08-08 17:28:58,437 [INFO] 1 change detected
+2025-08-08 17:28:59,542 [INFO] 1 change detected
+2025-08-08 17:29:00,495 [INFO] 1 change detected
+2025-08-08 17:29:01,500 [INFO] 1 change detected
+2025-08-08 17:29:02,760 [INFO] 1 change detected
+2025-08-08 17:29:03,715 [INFO] 1 change detected
+2025-08-08 17:29:07,072 [INFO] 1 change detected
+2025-08-08 17:29:08,326 [INFO] 1 change detected
+2025-08-08 17:29:09,731 [INFO] 1 change detected
+2025-08-08 17:29:11,338 [INFO] 1 change detected
+2025-08-08 17:29:12,595 [INFO] 1 change detected
+2025-08-08 17:29:13,952 [INFO] 1 change detected
+2025-08-08 17:29:15,261 [INFO] 1 change detected
+2025-08-08 17:29:16,974 [INFO] 1 change detected
+2025-08-08 17:29:18,479 [INFO] 1 change detected
+2025-08-08 17:29:19,633 [INFO] 1 change detected
+2025-08-08 17:29:20,838 [INFO] 1 change detected
+2025-08-08 17:29:22,093 [INFO] 1 change detected
+2025-08-08 17:29:23,300 [INFO] 1 change detected
+2025-08-08 17:29:24,660 [INFO] 1 change detected
+2025-08-08 17:29:25,927 [INFO] 1 change detected
+2025-08-08 17:29:27,283 [INFO] 1 change detected
+2025-08-08 17:29:28,404 [INFO] 1 change detected
+2025-08-08 17:29:30,262 [INFO] 1 change detected
+2025-08-08 17:29:31,618 [INFO] 1 change detected
+2025-08-08 17:29:32,925 [INFO] 1 change detected
+2025-08-08 17:29:34,682 [INFO] 1 change detected
+2025-08-08 17:29:36,747 [INFO] 1 change detected
+2025-08-08 17:29:39,199 [INFO] 1 change detected
+2025-08-08 17:29:41,007 [INFO] 1 change detected
+2025-08-08 17:29:42,265 [INFO] 1 change detected
+2025-08-08 17:29:44,021 [INFO] 1 change detected
+2025-08-08 17:29:45,228 [INFO] 1 change detected
+2025-08-08 17:29:46,784 [INFO] 1 change detected
+2025-08-08 17:29:48,591 [INFO] 1 change detected
+2025-08-08 17:29:49,796 [INFO] 1 change detected
+2025-08-08 17:29:51,101 [INFO] 1 change detected
+2025-08-08 17:29:52,865 [INFO] 1 change detected
+2025-08-08 17:29:54,169 [INFO] 1 change detected
+2025-08-08 17:29:56,445 [INFO] 1 change detected
+2025-08-08 17:29:57,850 [INFO] 1 change detected
+2025-08-08 17:29:59,815 [INFO] 1 change detected
+2025-08-08 17:30:01,672 [INFO] 1 change detected
+2025-08-08 17:30:02,877 [INFO] 1 change detected
+2025-08-08 17:30:04,235 [INFO] 1 change detected
+2025-08-08 17:30:05,192 [INFO] 1 change detected
+2025-08-08 17:30:06,398 [INFO] 1 change detected
+2025-08-08 17:30:07,401 [INFO] 1 change detected
+2025-08-08 17:30:10,469 [INFO] 1 change detected
+2025-08-08 17:30:11,674 [INFO] 1 change detected
+2025-08-08 17:30:12,778 [INFO] 1 change detected
+2025-08-08 17:30:13,883 [INFO] 1 change detected
+2025-08-08 17:30:15,189 [INFO] 1 change detected
+2025-08-08 17:30:16,495 [INFO] 1 change detected
+2025-08-08 17:30:17,751 [INFO] 1 change detected
+2025-08-08 17:30:18,905 [INFO] 1 change detected
+2025-08-08 17:30:19,909 [INFO] 1 change detected
+2025-08-08 17:30:21,012 [INFO] 1 change detected
+2025-08-08 17:30:22,018 [INFO] 1 change detected
+2025-08-08 17:30:23,232 [INFO] 1 change detected
+2025-08-08 17:30:24,589 [INFO] 1 change detected
+2025-08-08 17:30:26,447 [INFO] 1 change detected
+2025-08-08 17:30:28,053 [INFO] 1 change detected
+2025-08-08 17:30:29,309 [INFO] 1 change detected
+2025-08-08 17:30:31,217 [INFO] 1 change detected
+2025-08-08 17:30:32,674 [INFO] 1 change detected
+2025-08-08 17:30:34,079 [INFO] 1 change detected
+2025-08-08 17:30:35,485 [INFO] 1 change detected
+2025-08-08 17:30:36,488 [INFO] 1 change detected
+2025-08-08 17:30:37,743 [INFO] 1 change detected
+2025-08-08 17:30:38,805 [INFO] 1 change detected
+2025-08-08 17:30:42,202 [INFO] 1 change detected
+2025-08-08 17:30:43,759 [INFO] 1 change detected
+2025-08-08 17:30:44,867 [INFO] 1 change detected
+2025-08-08 17:30:46,434 [INFO] 1 change detected
+2025-08-08 17:30:47,941 [INFO] 1 change detected
+2025-08-08 17:30:49,597 [INFO] 1 change detected
+2025-08-08 17:30:51,053 [INFO] 1 change detected
+2025-08-08 17:30:52,161 [INFO] 1 change detected
+2025-08-08 17:30:53,919 [INFO] 1 change detected
+2025-08-08 17:30:55,877 [INFO] 1 change detected
+2025-08-08 17:30:56,881 [INFO] 1 change detected
+2025-08-08 17:30:57,986 [INFO] 1 change detected
+2025-08-08 17:30:59,197 [INFO] 1 change detected
+2025-08-08 17:31:00,655 [INFO] 1 change detected
+2025-08-08 17:31:02,160 [INFO] 1 change detected
+2025-08-08 17:31:03,364 [INFO] 1 change detected
+2025-08-08 17:31:04,718 [INFO] 1 change detected
+2025-08-08 17:31:05,872 [INFO] 1 change detected
+2025-08-08 17:31:07,026 [INFO] 1 change detected
+2025-08-08 17:31:08,080 [INFO] 1 change detected
+2025-08-08 17:31:09,134 [INFO] 1 change detected
+2025-08-08 17:31:10,188 [INFO] 1 change detected
+2025-08-08 17:31:11,695 [INFO] 1 change detected
+2025-08-08 17:31:14,957 [INFO] 1 change detected
+2025-08-08 17:31:16,016 [INFO] 1 change detected
+2025-08-08 17:31:17,221 [INFO] 1 change detected
+2025-08-08 17:31:18,225 [INFO] 1 change detected
+2025-08-08 17:31:19,331 [INFO] 1 change detected
+2025-08-08 17:31:20,335 [INFO] 1 change detected
+2025-08-08 17:31:21,840 [INFO] 1 change detected
+2025-08-08 17:31:22,995 [INFO] 1 change detected
+2025-08-08 17:31:24,449 [INFO] 1 change detected
+2025-08-08 17:31:25,704 [INFO] 1 change detected
+2025-08-08 17:31:27,712 [INFO] 1 change detected
+2025-08-08 17:31:28,918 [INFO] 1 change detected
+2025-08-08 17:31:30,083 [INFO] 1 change detected
+2025-08-08 17:31:32,040 [INFO] 1 change detected
+2025-08-08 17:31:32,943 [INFO] 1 change detected
+2025-08-08 17:35:25,992 [INFO] Navigating to login …
+2025-08-08 17:35:29,775 [INFO] 1 change detected
+2025-08-08 17:35:31,519 [INFO] 1 change detected
+2025-08-08 17:35:32,685 [INFO] 1 change detected
+2025-08-08 17:35:34,516 [INFO] 1 change detected
+2025-08-08 17:35:36,365 [INFO] 1 change detected
+2025-08-08 17:35:37,003 [INFO] 📅  From: 01/08/2025
+2025-08-08 17:35:37,003 [INFO] 📅  To:   05/08/2025
+2025-08-08 17:35:37,953 [INFO] 1 change detected
+2025-08-08 17:35:47,432 [INFO] Reload triggered
+2025-08-08 17:35:47,531 [INFO] Table ready – starting downloads
+2025-08-08 17:35:47,618 [INFO] 1 change detected
+2025-08-08 17:35:49,599 [INFO] Found 2 download buttons on page 1
+2025-08-08 17:35:49,933 [INFO] 1 change detected
+2025-08-08 17:35:50,610 [INFO] ⬇️    1 saved WAYA MFB_20250804_095959.zip
+2025-08-08 17:35:51,862 [INFO] 2 changes detected
+2025-08-08 17:35:52,801 [INFO] ⬇️    2 saved WAYA MFB_20250802_165959.zip
+2025-08-08 17:35:53,417 [INFO] 2 changes detected
+2025-08-08 17:35:53,865 [INFO] Finished – 2 files downloaded.
+2025-08-08 17:35:54,990 [INFO] 1 change detected
+2025-08-08 17:35:56,646 [INFO] 1 change detected
+2025-08-08 17:35:58,062 [INFO] 1 change detected
+2025-08-08 17:36:01,181 [INFO] 1 change detected
+2025-08-08 17:36:02,186 [INFO] 1 change detected
+2025-08-08 17:36:03,542 [INFO] 1 change detected
+2025-08-08 17:36:04,497 [INFO] 1 change detected
+2025-08-08 17:36:05,702 [INFO] 1 change detected
+2025-08-08 17:36:06,656 [INFO] 1 change detected
+2025-08-08 17:36:07,912 [INFO] 1 change detected
+2025-08-08 17:36:08,916 [INFO] 1 change detected
+2025-08-08 17:36:10,323 [INFO] 1 change detected
+2025-08-08 17:36:11,429 [INFO] 1 change detected
+2025-08-08 17:36:12,682 [INFO] 1 change detected
+2025-08-08 17:36:14,041 [INFO] 1 change detected
+2025-08-08 17:36:15,095 [INFO] 1 change detected
+2025-08-08 17:36:16,250 [INFO] 1 change detected
+2025-08-08 17:36:17,405 [INFO] 1 change detected
+2025-08-08 17:36:18,861 [INFO] 1 change detected
+2025-08-08 17:36:19,923 [INFO] 1 change detected
+2025-08-08 17:36:21,279 [INFO] 1 change detected
+2025-08-08 17:36:22,892 [INFO] 1 change detected
+2025-08-08 17:36:24,298 [INFO] 1 change detected
+2025-08-08 17:36:25,402 [INFO] 1 change detected
+2025-08-08 17:36:26,507 [INFO] 1 change detected
+2025-08-08 17:36:27,764 [INFO] 1 change detected
+2025-08-08 17:36:28,969 [INFO] 1 change detected
+2025-08-08 17:36:30,173 [INFO] 1 change detected
+2025-08-08 17:36:33,234 [INFO] 1 change detected
+2025-08-08 17:36:34,838 [INFO] 1 change detected
+2025-08-08 17:36:36,496 [INFO] 1 change detected
+2025-08-08 17:36:37,550 [INFO] 1 change detected
+2025-08-08 17:36:38,957 [INFO] 1 change detected
+2025-08-08 17:36:40,218 [INFO] 1 change detected
+2025-08-08 17:36:41,641 [INFO] 1 change detected
+2025-08-08 17:36:42,795 [INFO] 1 change detected
+2025-08-08 17:36:44,049 [INFO] 1 change detected
+2025-08-08 17:36:45,254 [INFO] 1 change detected
+2025-08-08 17:36:46,409 [INFO] 1 change detected
+2025-08-08 17:36:47,663 [INFO] 1 change detected
+2025-08-08 17:36:48,919 [INFO] 1 change detected
+2025-08-08 17:36:50,079 [INFO] 1 change detected
+2025-08-08 17:36:51,333 [INFO] 1 change detected
+2025-08-08 17:36:52,488 [INFO] 1 change detected
+2025-08-08 17:36:53,693 [INFO] 1 change detected
+2025-08-08 17:36:54,961 [INFO] 1 change detected
+2025-08-08 17:36:56,065 [INFO] 1 change detected
+2025-08-08 17:36:57,271 [INFO] 1 change detected
+2025-08-08 17:36:58,425 [INFO] 1 change detected
+2025-08-08 17:36:59,781 [INFO] 1 change detected
+2025-08-08 17:37:00,836 [INFO] 1 change detected
+2025-08-08 17:37:02,342 [INFO] 1 change detected
+2025-08-08 17:37:05,024 [INFO] 1 change detected
+2025-08-08 17:37:06,280 [INFO] 1 change detected
+2025-08-08 17:37:07,433 [INFO] 1 change detected
+2025-08-08 17:37:08,739 [INFO] 1 change detected
+2025-08-08 17:37:10,043 [INFO] 1 change detected
+2025-08-08 17:37:11,349 [INFO] 1 change detected
+2025-08-08 17:37:12,402 [INFO] 1 change detected
+2025-08-08 17:37:13,656 [INFO] 1 change detected
+2025-08-08 17:37:14,760 [INFO] 1 change detected
+2025-08-08 17:37:16,115 [INFO] 1 change detected
+2025-08-08 17:37:17,018 [INFO] 1 change detected
+2025-08-08 17:37:18,173 [INFO] 1 change detected
+2025-08-08 17:37:19,077 [INFO] 1 change detected
+2025-08-08 17:37:20,482 [INFO] 1 change detected
+2025-08-08 17:37:21,736 [INFO] 1 change detected
+2025-08-08 17:37:22,991 [INFO] 1 change detected
+2025-08-08 17:37:24,145 [INFO] 1 change detected
+2025-08-08 17:37:25,351 [INFO] 1 change detected
+2025-08-08 17:37:26,454 [INFO] 1 change detected
+2025-08-08 17:37:27,309 [INFO] 1 change detected
+2025-08-08 17:37:28,267 [INFO] 1 change detected
+2025-08-08 17:37:29,421 [INFO] 1 change detected
+2025-08-08 17:37:30,426 [INFO] 1 change detected
+2025-08-08 17:37:31,581 [INFO] 1 change detected
+2025-08-08 17:37:32,836 [INFO] 1 change detected
+2025-08-08 17:37:33,889 [INFO] 1 change detected
+2025-08-08 17:37:35,573 [INFO] 1 change detected
+2025-08-08 17:37:37,790 [INFO] 1 change detected
+2025-08-08 17:37:38,743 [INFO] 1 change detected
+2025-08-08 17:37:39,853 [INFO] 1 change detected
+2025-08-08 17:37:40,807 [INFO] 1 change detected
+2025-08-08 17:37:41,961 [INFO] 1 change detected
+2025-08-08 17:37:43,167 [INFO] 1 change detected
+2025-08-08 17:37:44,222 [INFO] 1 change detected
+2025-08-08 17:37:45,477 [INFO] 1 change detected
+2025-08-08 17:37:46,782 [INFO] 1 change detected
+2025-08-08 17:37:47,787 [INFO] 1 change detected
+2025-08-08 17:37:48,790 [INFO] 1 change detected
+2025-08-08 17:37:49,794 [INFO] 1 change detected
+2025-08-08 17:37:50,949 [INFO] 1 change detected
+2025-08-08 17:37:51,852 [INFO] 1 change detected
+2025-08-08 17:37:52,856 [INFO] 1 change detected
+2025-08-08 17:37:53,861 [INFO] 1 change detected
+2025-08-08 17:37:55,016 [INFO] 1 change detected
+2025-08-08 17:37:55,922 [INFO] 1 change detected
+2025-08-08 17:44:48,401 [INFO] 1 change detected
+2025-08-08 17:44:48,407 [WARNING] WatchFiles detected changes in 'src/ISW_bot.py'. Reloading...
+2025-08-08 17:44:48,422 [INFO] Shutting down
+2025-08-08 17:44:48,529 [INFO] Waiting for application shutdown.
+2025-08-08 17:44:48,532 [INFO] Application shutdown complete.
+2025-08-08 17:44:48,534 [INFO] Finished server process [13779]
+2025-08-08 17:44:50,661 [INFO] 1 change detected
+2025-08-08 17:44:51,714 [INFO] 1 change detected
+2025-08-08 17:44:52,668 [INFO] 1 change detected
+2025-08-08 17:44:54,124 [INFO] 1 change detected
+2025-08-08 17:44:54,926 [INFO] 1 change detected
+2025-08-08 17:44:56,403 [INFO] Started server process [14681]
+2025-08-08 17:44:56,406 [INFO] Waiting for application startup.
+2025-08-08 17:44:56,408 [INFO] Application startup complete.
+2025-08-08 17:44:56,933 [INFO] 3 changes detected
+2025-08-08 17:45:07,654 [INFO] 1 change detected
+2025-08-08 17:45:07,657 [WARNING] WatchFiles detected changes in 'src/ISW_bot.py'. Reloading...
+2025-08-08 17:45:07,721 [INFO] Shutting down
+2025-08-08 17:45:07,827 [INFO] Waiting for application shutdown.
+2025-08-08 17:45:07,829 [INFO] Application shutdown complete.
+2025-08-08 17:45:07,831 [INFO] Finished server process [14681]
+2025-08-08 17:45:09,090 [INFO] 1 change detected
+2025-08-08 17:45:11,152 [INFO] 1 change detected
+2025-08-08 17:45:12,408 [INFO] 1 change detected
+2025-08-08 17:45:14,015 [INFO] 1 change detected
+2025-08-08 17:45:15,620 [INFO] 1 change detected
+2025-08-08 17:45:16,764 [INFO] Started server process [14701]
+2025-08-08 17:45:16,778 [INFO] Waiting for application startup.
+2025-08-08 17:45:16,792 [INFO] Application startup complete.
+2025-08-08 17:45:17,589 [INFO] 3 changes detected
+2025-08-08 17:45:19,094 [INFO] 1 change detected
+2025-08-08 17:45:20,298 [INFO] 1 change detected
+2025-08-08 17:45:21,905 [INFO] 1 change detected
+2025-08-08 17:45:23,310 [INFO] 1 change detected
+2025-08-08 17:45:24,664 [INFO] 1 change detected
+2025-08-08 17:45:25,768 [INFO] 1 change detected
+2025-08-08 17:45:27,060 [INFO] 1 change detected
+2025-08-08 17:45:29,083 [INFO] 1 change detected
+2025-08-08 17:45:29,276 [INFO] Navigating to login …
+2025-08-08 17:45:30,237 [INFO] 1 change detected
+2025-08-08 17:45:31,592 [INFO] 1 change detected
+2025-08-08 17:45:32,647 [INFO] 1 change detected
+2025-08-08 17:45:35,752 [INFO] 1 change detected
+2025-08-08 17:45:36,907 [INFO] 1 change detected
+2025-08-08 17:45:38,167 [INFO] 1 change detected
+2025-08-08 17:45:39,321 [INFO] 1 change detected
+2025-08-08 17:45:40,375 [INFO] 1 change detected
+2025-08-08 17:45:41,528 [INFO] 1 change detected
+2025-08-08 17:45:42,632 [INFO] 1 change detected
+2025-08-08 17:45:43,789 [INFO] 1 change detected
+2025-08-08 17:45:44,949 [INFO] 1 change detected
+2025-08-08 17:45:46,606 [INFO] 1 change detected
+2025-08-08 17:45:47,860 [INFO] 1 change detected
+2025-08-08 17:45:49,710 [INFO] 1 change detected
+2025-08-08 17:45:50,965 [INFO] 1 change detected
+2025-08-08 17:45:52,320 [INFO] 1 change detected
+2025-08-08 17:45:53,425 [INFO] 1 change detected
+2025-08-08 17:45:55,040 [INFO] 1 change detected
+2025-08-08 17:45:56,949 [INFO] 1 change detected
+2025-08-08 17:45:58,553 [INFO] 1 change detected
+2025-08-08 17:46:00,011 [INFO] 1 change detected
+2025-08-08 17:46:01,417 [INFO] 1 change detected
+2025-08-08 17:46:01,679 [ERROR] Error during download: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://nipsysreport.wayalinks.com/nip-report/main.jspx", waiting until "load"
+
+Traceback (most recent call last):
+  File "/home/taiwo_rachel/projects/NIP-Download-Bot/src/NIP_bot.py", line 57, in nip_run
+    await page.goto(f"{NIP_PORTAL_URL}/main.jspx")
+  File "/home/taiwo_rachel/.local/lib/python3.12/site-packages/playwright/async_api/_generated.py", line 8975, in goto
+    await self._impl_obj.goto(
+  File "/home/taiwo_rachel/.local/lib/python3.12/site-packages/playwright/_impl/_page.py", line 556, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/taiwo_rachel/.local/lib/python3.12/site-packages/playwright/_impl/_frame.py", line 146, in goto
+    await self._channel.send(
+  File "/home/taiwo_rachel/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/taiwo_rachel/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py", line 558, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://nipsysreport.wayalinks.com/nip-report/main.jspx", waiting until "load"
+
+
+2025-08-08 17:46:02,571 [INFO] 1 change detected
+2025-08-08 17:46:03,928 [INFO] 1 change detected
+2025-08-08 17:46:05,032 [INFO] 1 change detected
+2025-08-08 17:46:08,493 [INFO] 1 change detected
+2025-08-08 17:46:09,599 [INFO] 1 change detected
+2025-08-08 17:46:10,704 [INFO] 1 change detected
+2025-08-08 17:46:11,658 [INFO] 1 change detected
+2025-08-08 17:46:13,114 [INFO] 1 change detected
+2025-08-08 17:46:14,368 [INFO] 1 change detected
+2025-08-08 17:46:15,836 [INFO] 1 change detected
+2025-08-08 17:46:17,303 [INFO] 1 change detected
+2025-08-08 17:46:19,148 [INFO] 1 change detected
+2025-08-08 17:46:19,663 [INFO] Navigating to login …
+2025-08-08 17:46:20,478 [INFO] 1 change detected
+2025-08-08 17:46:22,049 [INFO] 1 change detected
+2025-08-08 17:46:24,446 [INFO] 1 change detected
+2025-08-08 17:46:27,475 [INFO] 1 change detected
+2025-08-08 17:46:29,929 [INFO] 📅  From: 01/08/2025
+2025-08-08 17:46:29,929 [INFO] 📅  To:   05/08/2025
+2025-08-08 17:46:30,368 [INFO] 1 change detected
+2025-08-08 17:46:32,837 [INFO] 1 change detected
+2025-08-08 17:46:34,294 [INFO] 1 change detected
+2025-08-08 17:46:35,554 [INFO] 1 change detected
+2025-08-08 17:46:36,858 [INFO] 1 change detected
+2025-08-08 17:46:39,919 [INFO] 1 change detected
+2025-08-08 17:46:41,375 [INFO] 1 change detected
+2025-08-08 17:46:42,580 [INFO] 1 change detected
+2025-08-08 17:46:42,926 [INFO] Reload triggered
+2025-08-08 17:46:42,993 [INFO] Table ready – starting downloads
+2025-08-08 17:46:43,785 [INFO] 1 change detected
+2025-08-08 17:46:44,840 [INFO] 1 change detected
+2025-08-08 17:46:45,097 [INFO] Found 2 download buttons on page 1
+2025-08-08 17:46:46,140 [INFO] ⬇️    1 saved WAYA MFB_20250804_095959.zip
+2025-08-08 17:46:46,389 [INFO] 2 changes detected
+2025-08-08 17:46:48,304 [INFO] ⬇️    2 saved WAYA MFB_20250802_165959.zip
+2025-08-08 17:46:49,367 [INFO] Finished – 2 files downloaded.
+2025-08-08 17:46:49,995 [INFO] 2 changes detected
+2025-08-08 17:47:15,616 [INFO] Shutting down
+2025-08-08 17:47:15,718 [INFO] Waiting for application shutdown.
+2025-08-08 17:47:15,720 [INFO] Application shutdown complete.
+2025-08-08 17:47:15,721 [INFO] Finished server process [14701]
+2025-08-08 17:47:15,953 [INFO] Stopping reloader process [13768]
+2025-08-08 17:48:35,348 [INFO] Will watch for changes in these directories: ['/home/taiwo_rachel/projects/NIP-Download-Bot']
+2025-08-08 17:48:35,374 [INFO] Uvicorn running on http://127.0.0.1:8009 (Press CTRL+C to quit)
+2025-08-08 17:48:35,381 [INFO] Started reloader process [15112] using WatchFiles
+2025-08-08 17:48:41,194 [INFO] Started server process [15114]
+2025-08-08 17:48:41,197 [INFO] Waiting for application startup.
+2025-08-08 17:48:41,199 [INFO] Application startup complete.
+2025-08-08 17:48:41,955 [INFO] 1 change detected
+2025-08-08 17:49:19,891 [INFO] Navigating to login …
+2025-08-08 17:49:20,676 [INFO] 1 change detected
+2025-08-08 17:49:22,471 [INFO] 1 change detected
+2025-08-08 17:49:24,065 [INFO] 1 change detected
+2025-08-08 17:49:25,444 [INFO] 1 change detected
+2025-08-08 17:49:26,870 [INFO] 📅  From: 01/08/2025
+2025-08-08 17:49:26,871 [INFO] 📅  To:   05/08/2025
+2025-08-08 17:49:27,074 [INFO] 1 change detected
+2025-08-08 17:49:28,781 [INFO] 1 change detected
+2025-08-08 17:49:29,885 [INFO] 1 change detected
+2025-08-08 17:49:31,142 [INFO] 1 change detected
+2025-08-08 17:49:32,206 [INFO] 1 change detected
+2025-08-08 17:49:33,584 [INFO] 1 change detected
+2025-08-08 17:49:34,758 [INFO] 1 change detected
+2025-08-08 17:49:36,012 [INFO] 1 change detected
+2025-08-08 17:49:37,048 [INFO] Reload triggered
+2025-08-08 17:49:37,113 [INFO] Table ready – starting downloads
+2025-08-08 17:49:37,117 [INFO] 1 change detected
+2025-08-08 17:49:38,271 [INFO] 1 change detected
+2025-08-08 17:49:39,209 [INFO] Found 2 download buttons on page 1
+2025-08-08 17:49:39,376 [INFO] 1 change detected
+2025-08-08 17:49:40,384 [INFO] ⬇️    1 saved WAYA MFB_20250804_095959.zip
+2025-08-08 17:49:40,974 [INFO] 2 changes detected
+2025-08-08 17:49:42,635 [INFO] ⬇️    2 saved WAYA MFB_20250802_165959.zip
+2025-08-08 17:49:43,692 [INFO] Finished – 2 files downloaded.
+2025-08-08 17:49:44,674 [INFO] 2 changes detected
+2025-08-08 17:49:45,979 [INFO] 1 change detected
+2025-08-08 17:49:47,484 [INFO] 1 change detected
+2025-08-08 17:49:50,072 [INFO] 1 change detected
+2025-08-08 17:49:51,026 [INFO] 1 change detected
+2025-08-08 17:49:52,031 [INFO] 1 change detected
+2025-08-08 17:49:53,138 [INFO] 1 change detected
+2025-08-08 17:49:54,142 [INFO] 1 change detected
+2025-08-08 17:49:55,598 [INFO] 1 change detected
+2025-08-08 17:49:57,304 [INFO] 1 change detected
+2025-08-08 17:49:58,559 [INFO] 1 change detected
+2025-08-08 17:49:59,664 [INFO] 1 change detected
+2025-08-08 17:50:00,818 [INFO] 1 change detected
+2025-08-08 17:50:02,024 [INFO] 1 change detected
+2025-08-08 17:50:03,129 [INFO] 1 change detected
+2025-08-08 17:50:04,435 [INFO] 1 change detected
+2025-08-08 17:50:07,565 [INFO] 1 change detected
+2025-08-08 17:50:08,771 [INFO] 1 change detected
+2025-08-08 17:50:09,975 [INFO] 1 change detected
+2025-08-08 17:50:11,238 [INFO] 1 change detected
+2025-08-08 17:50:12,447 [INFO] 1 change detected
+2025-08-08 17:50:13,451 [INFO] 1 change detected
+2025-08-08 17:50:14,555 [INFO] 1 change detected
+2025-08-08 17:50:15,665 [INFO] 1 change detected
+2025-08-08 17:50:16,668 [INFO] 1 change detected
+2025-08-08 17:50:18,024 [INFO] 1 change detected
+2025-08-08 17:50:18,978 [INFO] 1 change detected
+2025-08-08 17:52:10,782 [INFO] 1 change detected
+2025-08-08 17:52:32,314 [INFO] Navigating to login …
+2025-08-08 17:54:56,166 [WARNING] WatchFiles detected changes in 'src/ISW_bot.py'. Reloading...
+2025-08-08 17:54:56,174 [INFO] Shutting down
+2025-08-08 17:54:56,287 [INFO] Waiting for connections to close. (CTRL+C to force quit)
+2025-08-08 17:54:56,395 [ERROR] Error during download: Page.goto: Target page, context or browser has been closed
+Traceback (most recent call last):
+  File "/home/taiwo_rachel/projects/NIP-Download-Bot/src/NIP_bot.py", line 57, in nip_run
+    await page.goto(f"{NIP_PORTAL_URL}/main.jspx")
+  File "/home/taiwo_rachel/.local/lib/python3.12/site-packages/playwright/async_api/_generated.py", line 8975, in goto
+    await self._impl_obj.goto(
+  File "/home/taiwo_rachel/.local/lib/python3.12/site-packages/playwright/_impl/_page.py", line 556, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/taiwo_rachel/.local/lib/python3.12/site-packages/playwright/_impl/_frame.py", line 146, in goto
+    await self._channel.send(
+  File "/home/taiwo_rachel/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/taiwo_rachel/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py", line 558, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: Page.goto: Target page, context or browser has been closed
+
+2025-08-08 17:54:56,489 [INFO] Waiting for application shutdown.
+2025-08-08 17:54:56,491 [INFO] Application shutdown complete.
+2025-08-08 17:54:56,493 [INFO] Finished server process [15114]
+2025-08-08 17:54:56,887 [INFO] Stopping reloader process [15112]
+2025-08-08 17:55:24,030 [INFO] Will watch for changes in these directories: ['/home/taiwo_rachel/projects/NIP-Download-Bot']
+2025-08-08 17:55:24,045 [INFO] Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-08-08 17:55:24,051 [INFO] Started reloader process [15660] using WatchFiles
+2025-08-08 17:55:29,875 [INFO] Started server process [15664]
+2025-08-08 17:55:29,878 [INFO] Waiting for application startup.
+2025-08-08 17:55:29,884 [INFO] Application startup complete.
+2025-08-08 17:55:30,100 [INFO] 1 change detected
+2025-08-08 17:55:31,661 [INFO] 1 change detected
+2025-08-08 17:55:32,565 [INFO] 1 change detected
+2025-08-08 17:55:33,769 [INFO] 1 change detected
+2025-08-08 17:55:34,825 [INFO] 1 change detected
+2025-08-08 17:55:36,131 [INFO] 1 change detected
+2025-08-08 17:55:37,537 [INFO] 1 change detected
+2025-08-08 17:55:38,441 [INFO] 1 change detected
+2025-08-08 17:55:39,395 [INFO] 1 change detected
+2025-08-08 17:55:40,549 [INFO] 1 change detected
+2025-08-08 17:55:43,533 [INFO] 1 change detected
+2025-08-08 17:55:44,788 [INFO] 1 change detected
+2025-08-08 17:55:45,844 [INFO] 1 change detected
+2025-08-08 17:55:47,149 [INFO] 1 change detected
+2025-08-08 17:55:48,303 [INFO] 1 change detected
+2025-08-08 17:55:49,157 [INFO] 1 change detected
+2025-08-08 17:55:50,263 [INFO] 1 change detected
+2025-08-08 17:55:51,316 [INFO] 1 change detected
+2025-08-08 17:55:52,570 [INFO] 1 change detected
+2025-08-08 17:55:53,682 [INFO] 1 change detected
+2025-08-08 17:55:55,387 [INFO] 1 change detected
+2025-08-08 17:55:56,542 [INFO] 1 change detected
+2025-08-08 17:55:57,948 [INFO] 1 change detected
+2025-08-08 17:55:59,559 [INFO] 1 change detected
+2025-08-08 17:56:00,870 [INFO] 1 change detected
+2025-08-08 17:56:01,924 [INFO] 1 change detected
+2025-08-08 17:56:03,180 [INFO] 1 change detected
+2025-08-08 17:56:04,084 [INFO] 1 change detected
+2025-08-08 17:56:05,290 [INFO] 1 change detected
+2025-08-08 17:56:06,444 [INFO] 1 change detected
+2025-08-08 17:56:07,550 [INFO] 1 change detected
+2025-08-08 17:56:08,655 [INFO] 1 change detected
+2025-08-08 17:56:09,860 [INFO] 1 change detected
+2025-08-08 17:56:10,965 [INFO] 1 change detected
+2025-08-08 17:56:11,922 [INFO] 1 change detected
+2025-08-08 17:56:13,644 [INFO] 1 change detected
+2025-08-08 17:56:15,949 [INFO] 1 change detected
+2025-08-08 17:56:16,904 [INFO] 1 change detected
+2025-08-08 17:56:18,158 [INFO] 1 change detected
+2025-08-08 17:56:19,163 [INFO] 1 change detected
+2025-08-08 17:56:20,320 [INFO] 1 change detected
+2025-08-08 17:56:21,374 [INFO] 1 change detected
+2025-08-08 17:56:22,890 [INFO] 1 change detected
+2025-08-08 17:56:24,098 [INFO] 1 change detected
+2025-08-08 17:56:25,354 [INFO] 1 change detected
+2025-08-08 17:56:27,326 [INFO] 1 change detected
+2025-08-08 17:56:27,638 [INFO] Navigating to login …
+2025-08-08 17:56:28,510 [INFO] 1 change detected
+2025-08-08 17:56:29,665 [INFO] 1 change detected
+2025-08-08 17:56:31,240 [INFO] 1 change detected
+2025-08-08 17:56:32,676 [INFO] 1 change detected
+2025-08-08 17:56:34,383 [INFO] 1 change detected
+2025-08-08 17:56:34,988 [INFO] 📅  From: 01/08/2025
+2025-08-08 17:56:34,989 [INFO] 📅  To:   05/08/2025
+2025-08-08 17:56:36,011 [INFO] 1 change detected
+2025-08-08 17:56:37,223 [INFO] 1 change detected
+2025-08-08 17:56:38,332 [INFO] 1 change detected
+2025-08-08 17:56:39,388 [INFO] 1 change detected
+2025-08-08 17:56:40,542 [INFO] 1 change detected
+2025-08-08 17:56:41,547 [INFO] 1 change detected
+2025-08-08 17:56:42,860 [INFO] 1 change detected
+2025-08-08 17:56:43,914 [INFO] 1 change detected
+2025-08-08 17:56:47,224 [INFO] 1 change detected
+2025-08-08 17:56:47,392 [INFO] Reload triggered
+2025-08-08 17:56:47,436 [INFO] Table ready – starting downloads
+2025-08-08 17:56:48,229 [INFO] 1 change detected
+2025-08-08 17:56:49,485 [INFO] 1 change detected
+2025-08-08 17:56:49,589 [INFO] Found 2 download buttons on page 1
+2025-08-08 17:56:50,445 [INFO] ⬇️    1 saved WAYA MFB_20250804_095959.zip
+2025-08-08 17:56:50,755 [INFO] 2 changes detected
+2025-08-08 17:56:52,476 [INFO] ⬇️    2 saved WAYA MFB_20250802_165959.zip
+2025-08-08 17:56:53,510 [INFO] Finished – 2 files downloaded.
+2025-08-08 17:56:53,587 [INFO] 2 changes detected
+2025-08-08 17:56:54,849 [INFO] 1 change detected
+2025-08-08 17:56:56,154 [INFO] 1 change detected
+2025-08-08 17:56:57,461 [INFO] 1 change detected
+2025-08-08 17:56:58,666 [INFO] 1 change detected
+2025-08-08 17:56:59,823 [INFO] 1 change detected
+2025-08-08 17:57:00,932 [INFO] 1 change detected
+2025-08-08 17:57:02,087 [INFO] 1 change detected
+2025-08-08 17:57:03,093 [INFO] 1 change detected
+2025-08-08 17:57:04,249 [INFO] 1 change detected
+2025-08-08 17:57:05,203 [INFO] 1 change detected
+2025-08-08 17:57:06,459 [INFO] 1 change detected
+2025-08-08 17:57:07,464 [INFO] 1 change detected
+2025-08-08 17:57:08,719 [INFO] 1 change detected
+2025-08-08 17:57:09,876 [INFO] 1 change detected
+2025-08-08 17:57:11,382 [INFO] 1 change detected
+2025-08-08 17:57:12,536 [INFO] 1 change detected
+2025-08-08 17:57:13,794 [INFO] 1 change detected
+2025-08-08 17:57:14,848 [INFO] 1 change detected
+2025-08-08 17:57:16,204 [INFO] 1 change detected
+2025-08-08 17:57:19,128 [INFO] 1 change detected
+2025-08-08 17:57:20,398 [INFO] 1 change detected
+2025-08-08 17:57:21,502 [INFO] 1 change detected
+2025-08-08 17:57:22,919 [INFO] 1 change detected
+2025-08-08 17:57:23,973 [INFO] 1 change detected
+2025-08-08 17:57:25,277 [INFO] 1 change detected
+2025-08-08 17:57:26,381 [INFO] 1 change detected
+2025-08-08 17:57:27,486 [INFO] 1 change detected
+2025-08-08 17:57:28,891 [INFO] 1 change detected
+2025-08-08 17:57:30,295 [INFO] 1 change detected
+2025-08-08 17:57:31,599 [INFO] 1 change detected
+2025-08-08 17:57:32,703 [INFO] 1 change detected
+2025-08-08 17:57:33,706 [INFO] 1 change detected
+2025-08-08 17:57:34,861 [INFO] 1 change detected
+2025-08-08 17:57:35,915 [INFO] 1 change detected
+2025-08-08 17:57:37,270 [INFO] 1 change detected
+2025-08-08 17:57:38,928 [INFO] 1 change detected
+2025-08-08 17:57:40,435 [INFO] 1 change detected
+2025-08-08 17:57:41,991 [INFO] 1 change detected
+2025-08-08 17:57:43,652 [INFO] 1 change detected
+2025-08-08 17:57:44,867 [INFO] 1 change detected
+2025-08-08 17:57:46,223 [INFO] 1 change detected
+2025-08-08 17:57:47,630 [INFO] 1 change detected
+2025-08-08 17:57:51,013 [INFO] 1 change detected
+2025-08-08 17:57:52,218 [INFO] 1 change detected
+2025-08-08 17:57:53,272 [INFO] 1 change detected
+2025-08-08 17:57:54,729 [INFO] 1 change detected
+2025-08-08 17:57:56,286 [INFO] 1 change detected
+2025-08-08 17:57:57,591 [INFO] 1 change detected
+2025-08-08 17:57:58,695 [INFO] 1 change detected
+2025-08-08 17:57:59,849 [INFO] 1 change detected
+2025-08-08 17:58:00,853 [INFO] 1 change detected
+2025-08-08 17:58:02,360 [INFO] 1 change detected
+2025-08-08 17:58:03,665 [INFO] 1 change detected
+2025-08-08 17:58:04,819 [INFO] 1 change detected
+2025-08-08 17:58:06,527 [INFO] 1 change detected
+2025-08-08 17:58:07,833 [INFO] 1 change detected
+2025-08-08 17:58:09,742 [INFO] 1 change detected
+2025-08-08 17:58:11,548 [INFO] 1 change detected
+2025-08-08 17:58:12,653 [INFO] 1 change detected
+2025-08-08 17:58:14,209 [INFO] 1 change detected
+2025-08-08 17:58:15,771 [INFO] 1 change detected
+2025-08-08 17:58:16,926 [INFO] 1 change detected
+2025-08-08 17:58:18,592 [INFO] 1 change detected
+2025-08-08 17:58:19,847 [INFO] 1 change detected
+2025-08-08 17:58:23,418 [INFO] 1 change detected
+2025-08-08 17:58:24,672 [INFO] 1 change detected
+2025-08-08 17:58:26,544 [INFO] 1 change detected
+2025-08-08 17:58:28,450 [INFO] 1 change detected
+2025-08-08 17:58:30,517 [INFO] 1 change detected
+2025-08-08 17:58:31,623 [INFO] 1 change detected
+2025-08-08 17:58:33,582 [INFO] 1 change detected
+2025-08-08 17:58:34,937 [INFO] 1 change detected
+2025-08-08 17:58:37,058 [INFO] 1 change detected
+2025-08-08 17:58:38,474 [INFO] 2 changes detected
+2025-08-08 17:58:38,477 [WARNING] WatchFiles detected changes in 'src/ISW_bot.py'. Reloading...
+2025-08-08 17:58:38,541 [INFO] Shutting down
+2025-08-08 17:58:38,644 [INFO] Waiting for application shutdown.
+2025-08-08 17:58:38,647 [INFO] Application shutdown complete.
+2025-08-08 17:58:38,649 [INFO] Finished server process [15664]
+2025-08-08 17:58:40,136 [INFO] 1 change detected
+2025-08-08 17:58:41,854 [INFO] 1 change detected
+2025-08-08 17:58:42,958 [INFO] 1 change detected
+2025-08-08 17:58:44,012 [INFO] 1 change detected
+2025-08-08 17:58:45,482 [INFO] 1 change detected
+2025-08-08 17:58:46,912 [INFO] Started server process [15935]
+2025-08-08 17:58:46,916 [INFO] Waiting for application startup.
+2025-08-08 17:58:46,929 [INFO] Application startup complete.
+2025-08-08 17:58:47,090 [INFO] 3 changes detected
+2025-08-08 17:58:48,296 [INFO] 1 change detected
+2025-08-08 17:58:49,553 [INFO] 1 change detected
+2025-08-08 17:58:50,613 [INFO] 1 change detected
+2025-08-08 17:58:51,869 [INFO] 1 change detected
+2025-08-08 17:58:55,469 [INFO] 1 change detected
+2025-08-08 17:58:56,438 [INFO] Navigating to login …
+2025-08-08 17:58:57,042 [INFO] 1 change detected
+2025-08-08 17:58:58,503 [INFO] 1 change detected
+2025-08-08 17:59:00,039 [INFO] 1 change detected
+2025-08-08 17:59:01,270 [INFO] 1 change detected
+2025-08-08 17:59:03,096 [INFO] 1 change detected
+2025-08-08 17:59:04,491 [INFO] 1 change detected
+2025-08-08 17:59:05,812 [INFO] 1 change detected
+2025-08-08 17:59:05,815 [INFO] 📅  From: 01/08/2025
+2025-08-08 17:59:05,815 [INFO] 📅  To:   05/08/2025
+2025-08-08 17:59:07,509 [INFO] 1 change detected
+2025-08-08 17:59:08,716 [INFO] 1 change detected
+2025-08-08 17:59:09,773 [INFO] 1 change detected
+2025-08-08 17:59:10,929 [INFO] 1 change detected
+2025-08-08 17:59:12,040 [INFO] 1 change detected
+2025-08-08 17:59:13,058 [INFO] 1 change detected
+2025-08-08 17:59:14,364 [INFO] 1 change detected
+2025-08-08 17:59:15,875 [INFO] 1 change detected
+2025-08-08 17:59:16,303 [INFO] Reload triggered
+2025-08-08 17:59:16,350 [INFO] Table ready – starting downloads
+2025-08-08 17:59:16,930 [INFO] 1 change detected
+2025-08-08 17:59:18,408 [INFO] Found 2 download buttons on page 1
+2025-08-08 17:59:19,388 [INFO] ⬇️    1 saved WAYA MFB_20250804_095959.zip
+2025-08-08 17:59:19,598 [INFO] 2 changes detected
+2025-08-08 17:59:21,322 [INFO] ⬇️    2 saved WAYA MFB_20250802_165959.zip
+2025-08-08 17:59:22,368 [INFO] Finished – 2 files downloaded.
+2025-08-08 17:59:22,931 [INFO] 2 changes detected
+2025-08-08 18:02:26,378 [INFO] 1 change detected
+2025-08-08 18:02:26,380 [WARNING] WatchFiles detected changes in 'main.py'. Reloading...
+2025-08-08 18:02:26,480 [INFO] Shutting down
+2025-08-08 18:02:26,583 [INFO] Waiting for application shutdown.
+2025-08-08 18:02:26,585 [INFO] Application shutdown complete.
+2025-08-08 18:02:26,587 [INFO] Finished server process [15935]
+2025-08-08 18:02:28,575 [INFO] 1 change detected
+2025-08-08 18:02:29,779 [INFO] 1 change detected
+2025-08-08 18:02:31,535 [INFO] 1 change detected
+2025-08-08 18:02:32,893 [INFO] 1 change detected
+2025-08-08 18:02:34,652 [INFO] 1 change detected
+2025-08-08 18:02:35,485 [INFO] Started server process [16223]
+2025-08-08 18:02:35,498 [INFO] Waiting for application startup.
+2025-08-08 18:02:35,501 [INFO] Application startup complete.
+2025-08-08 18:02:36,521 [INFO] 3 changes detected
+2025-08-08 18:02:39,642 [INFO] 1 change detected
+2025-08-08 18:02:41,201 [INFO] 1 change detected
+2025-08-08 18:02:42,808 [INFO] 1 change detected
+2025-08-08 18:02:44,113 [INFO] 1 change detected
+2025-08-08 18:02:45,669 [INFO] 1 change detected
+2025-08-08 18:02:47,124 [INFO] 1 change detected
+2025-08-08 18:02:49,181 [INFO] 1 change detected
+2025-08-08 18:02:50,689 [INFO] 1 change detected
+2025-08-08 18:02:51,945 [INFO] 1 change detected
+2025-08-08 18:02:53,002 [INFO] 1 change detected
+2025-08-08 18:02:54,407 [INFO] 1 change detected
+2025-08-08 18:02:55,920 [INFO] 1 change detected
+2025-08-08 18:02:57,928 [INFO] 1 change detected
+2025-08-08 18:02:58,982 [INFO] 1 change detected
+2025-08-08 18:03:00,542 [INFO] 1 change detected
+2025-08-08 18:03:01,857 [INFO] 1 change detected
+2025-08-08 18:03:02,862 [INFO] 1 change detected
+2025-08-08 18:03:04,667 [INFO] 1 change detected
+2025-08-08 18:03:06,474 [INFO] 1 change detected
+2025-08-08 18:03:07,537 [INFO] 1 change detected
+2025-08-08 18:03:09,328 [INFO] 1 change detected
+2025-08-08 18:03:11,695 [INFO] 1 change detected
+2025-08-08 18:03:13,711 [INFO] 1 change detected
+2025-08-08 18:03:15,267 [INFO] 1 change detected
+2025-08-08 18:03:16,524 [INFO] 1 change detected
+2025-08-08 18:03:18,081 [INFO] 1 change detected
+2025-08-08 18:03:19,889 [INFO] 1 change detected
+2025-08-08 18:03:21,144 [INFO] 1 change detected
+2025-08-08 18:03:23,215 [INFO] 1 change detected
+2025-08-08 18:03:24,971 [INFO] 1 change detected
+2025-08-08 18:03:26,328 [INFO] 1 change detected
+2025-08-08 18:03:27,785 [INFO] 1 change detected
+2025-08-08 18:03:29,141 [INFO] 1 change detected
+2025-08-08 18:03:30,145 [INFO] 1 change detected
+2025-08-08 18:03:31,651 [INFO] 1 change detected
+2025-08-08 18:03:32,956 [INFO] 1 change detected
+2025-08-08 18:03:34,864 [INFO] 1 change detected
+2025-08-08 18:03:36,019 [INFO] 1 change detected
+2025-08-08 18:03:37,826 [INFO] 1 change detected
+2025-08-08 18:03:39,384 [INFO] 1 change detected
+2025-08-08 18:03:43,046 [INFO] 1 change detected
+2025-08-08 18:03:44,605 [INFO] 2 changes detected
+2025-08-08 18:03:44,609 [WARNING] WatchFiles detected changes in 'src/NIP_bot.py'. Reloading...
+2025-08-08 18:03:44,706 [INFO] Shutting down
+2025-08-08 18:03:44,809 [INFO] Waiting for application shutdown.
+2025-08-08 18:03:44,813 [INFO] Application shutdown complete.
+2025-08-08 18:03:44,816 [INFO] Finished server process [16223]
+2025-08-08 18:03:46,067 [INFO] 1 change detected
+2025-08-08 18:03:46,919 [INFO] 1 change detected
+2025-08-08 18:03:51,340 [INFO] Started server process [16271]
+2025-08-08 18:03:51,344 [INFO] Waiting for application startup.
+2025-08-08 18:03:51,347 [INFO] Application startup complete.
+2025-08-08 18:03:51,789 [INFO] 3 changes detected
+2025-08-08 18:04:58,088 [INFO] Navigating to login …
+2025-08-08 18:04:58,238 [INFO] 1 change detected
+2025-08-08 18:05:36,598 [ERROR] Error during download: Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("text=Transaction Report")
+    - locator resolved to <a href="/nip-report/report/transaction-report/list">…</a>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    57 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+Traceback (most recent call last):
+  File "/home/taiwo_rachel/projects/NIP-Download-Bot/src/NIP_bot.py", line 66, in nip_run
+    await page.click("text=Transaction Report")
+  File "/home/taiwo_rachel/.local/lib/python3.12/site-packages/playwright/async_api/_generated.py", line 9861, in click
+    await self._impl_obj.click(
+  File "/home/taiwo_rachel/.local/lib/python3.12/site-packages/playwright/_impl/_page.py", line 859, in click
+    return await self._main_frame.click(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/taiwo_rachel/.local/lib/python3.12/site-packages/playwright/_impl/_frame.py", line 521, in click
+    await self._channel.send("click", self._timeout, locals_to_params(locals()))
+  File "/home/taiwo_rachel/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/taiwo_rachel/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py", line 558, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("text=Transaction Report")
+    - locator resolved to <a href="/nip-report/report/transaction-report/list">…</a>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    57 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+
+2025-08-08 18:05:37,402 [INFO] 1 change detected
+2025-08-08 18:05:38,708 [INFO] 1 change detected
+2025-08-08 18:05:39,862 [INFO] 1 change detected
+2025-08-08 18:05:41,017 [INFO] 1 change detected
+2025-08-08 18:05:42,072 [INFO] 1 change detected
+2025-08-08 18:05:43,328 [INFO] 1 change detected
+2025-08-08 18:05:44,339 [INFO] 1 change detected
+2025-08-08 18:05:45,644 [INFO] 1 change detected
+2025-08-08 18:05:46,598 [INFO] 1 change detected
+2025-08-08 18:05:47,753 [INFO] 1 change detected
+2025-08-08 18:05:50,708 [INFO] 1 change detected
+2025-08-08 18:05:52,014 [INFO] 1 change detected
+2025-08-08 18:05:53,118 [INFO] 1 change detected
+2025-08-08 18:05:54,637 [INFO] 1 change detected
+2025-08-08 18:05:55,891 [INFO] 1 change detected
+2025-08-08 18:05:57,447 [INFO] 1 change detected
+2025-08-08 18:05:58,751 [INFO] 1 change detected
+2025-08-08 18:05:59,905 [INFO] 1 change detected
+2025-08-08 18:06:01,711 [INFO] 1 change detected
+2025-08-08 18:06:02,815 [INFO] 1 change detected
+2025-08-08 18:06:04,471 [INFO] 1 change detected
+2025-08-08 18:06:05,777 [INFO] 1 change detected
+2025-08-08 18:06:07,082 [INFO] 1 change detected
+2025-08-08 18:06:08,236 [INFO] 1 change detected
+2025-08-08 18:06:09,392 [INFO] 1 change detected
+2025-08-08 18:06:10,496 [INFO] 1 change detected
+2025-08-08 18:06:11,752 [INFO] 1 change detected
+2025-08-08 18:06:13,006 [INFO] 1 change detected
+2025-08-08 18:06:14,211 [INFO] 1 change detected
+2025-08-08 18:06:15,265 [INFO] 1 change detected
+2025-08-08 18:06:16,370 [INFO] 1 change detected
+2025-08-08 18:06:18,466 [INFO] 1 change detected
+2025-08-08 18:06:21,443 [INFO] 1 change detected
+2025-08-08 18:06:24,113 [INFO] 2 changes detected
+2025-08-08 18:06:24,114 [WARNING] WatchFiles detected changes in 'src/NIP_bot.py'. Reloading...
+2025-08-08 18:06:24,204 [INFO] Shutting down
+2025-08-08 18:06:24,307 [INFO] Waiting for application shutdown.
+2025-08-08 18:06:24,310 [INFO] Application shutdown complete.
+2025-08-08 18:06:24,312 [INFO] Finished server process [16271]
+2025-08-08 18:06:25,556 [INFO] 1 change detected
+2025-08-08 18:06:27,063 [INFO] 1 change detected
+2025-08-08 18:06:28,067 [INFO] 1 change detected
+2025-08-08 18:06:29,322 [INFO] 1 change detected
+2025-08-08 18:06:31,232 [INFO] 1 change detected
+2025-08-08 18:06:32,014 [INFO] Started server process [16520]
+2025-08-08 18:06:32,017 [INFO] Waiting for application startup.
+2025-08-08 18:06:32,020 [INFO] Application startup complete.
+2025-08-08 18:06:32,643 [INFO] 3 changes detected
+2025-08-08 18:06:40,087 [INFO] Navigating to login …
+2025-08-08 18:06:40,702 [INFO] 1 change detected
+2025-08-08 18:06:46,872 [INFO] 📅  From: 01/08/2025
+2025-08-08 18:06:46,873 [INFO] 📅  To:   05/08/2025
+2025-08-08 18:06:47,463 [INFO] 1 change detected
+2025-08-08 18:06:49,030 [INFO] 1 change detected
+2025-08-08 18:06:50,034 [INFO] 1 change detected
+2025-08-08 18:06:51,088 [INFO] 1 change detected
+2025-08-08 18:06:52,449 [INFO] 1 change detected
+2025-08-08 18:06:55,489 [INFO] 1 change detected
+2025-08-08 18:06:56,651 [INFO] 1 change detected
+2025-08-08 18:06:57,805 [INFO] 1 change detected
+2025-08-08 18:06:58,917 [INFO] 1 change detected
+2025-08-08 18:06:59,317 [INFO] Reload triggered
+2025-08-08 18:06:59,355 [INFO] Table ready – starting downloads
+2025-08-08 18:06:59,931 [INFO] 1 change detected
+2025-08-08 18:07:01,410 [INFO] Found 2 download buttons on page 1
+2025-08-08 18:07:02,354 [INFO] 1 change detected
+2025-08-08 18:07:02,545 [INFO] ⬇️    1 saved WAYA MFB_20250804_095959.zip
+2025-08-08 18:07:03,876 [INFO] 2 changes detected
+2025-08-08 18:07:04,500 [INFO] ⬇️    2 saved WAYA MFB_20250802_165959.zip
+2025-08-08 18:07:05,511 [INFO] 2 changes detected
+2025-08-08 18:07:05,567 [INFO] Finished – 2 files downloaded.
+2025-08-08 18:07:06,815 [INFO] 1 change detected
+2025-08-08 18:07:08,122 [INFO] 1 change detected
+2025-08-08 18:07:09,078 [INFO] 1 change detected
+2025-08-08 18:07:10,082 [INFO] 1 change detected
+2025-08-08 18:07:11,236 [INFO] 1 change detected
+2025-08-08 18:07:12,240 [INFO] 1 change detected
+2025-08-08 18:07:13,245 [INFO] 1 change detected
+2025-08-08 18:07:14,600 [INFO] 1 change detected
+2025-08-08 18:07:15,503 [INFO] 1 change detected
+2025-08-08 18:07:16,809 [INFO] 1 change detected
+2025-08-08 18:07:17,918 [INFO] 1 change detected
+2025-08-08 18:07:18,872 [INFO] 1 change detected
+2025-08-08 18:07:19,825 [INFO] 1 change detected
+2025-08-08 18:07:20,929 [INFO] 1 change detected
+2025-08-08 18:07:21,934 [INFO] 1 change detected
+2025-08-08 18:07:23,158 [INFO] 1 change detected
+2025-08-08 18:07:24,164 [INFO] 1 change detected
+2025-08-08 18:07:27,239 [INFO] 1 change detected
+2025-08-08 18:07:28,192 [INFO] 1 change detected
+2025-08-08 18:07:29,345 [INFO] 1 change detected
+2025-08-08 18:07:30,551 [INFO] 1 change detected
+2025-08-08 18:07:31,554 [INFO] 1 change detected
+2025-08-08 18:07:32,457 [INFO] 1 change detected
+2025-08-08 18:07:33,612 [INFO] 1 change detected
+2025-08-08 18:07:34,566 [INFO] 1 change detected
+2025-08-08 18:07:36,274 [INFO] 1 change detected
+2025-08-08 18:07:37,730 [INFO] 1 change detected
+2025-08-08 18:07:38,885 [INFO] 1 change detected
+2025-08-08 18:07:39,989 [INFO] 1 change detected
+2025-08-08 18:07:41,044 [INFO] 1 change detected
+2025-08-08 18:07:42,502 [INFO] 1 change detected
+2025-08-08 18:07:43,557 [INFO] 1 change detected
+2025-08-08 18:07:44,561 [INFO] 1 change detected
+2025-08-08 18:07:45,414 [INFO] 1 change detected
+2025-08-08 18:07:46,672 [INFO] 1 change detected
+2025-08-08 18:07:48,279 [INFO] 1 change detected
+2025-08-08 18:07:49,288 [INFO] 1 change detected
+2025-08-08 18:07:50,393 [INFO] 1 change detected
+2025-08-08 18:07:51,348 [INFO] 1 change detected
+2025-08-08 18:07:52,603 [INFO] 1 change detected
+2025-08-08 18:07:53,457 [INFO] 1 change detected
+2025-08-08 18:07:54,512 [INFO] 1 change detected
+2025-08-08 18:07:55,667 [INFO] 1 change detected
+2025-08-08 18:07:58,958 [INFO] 1 change detected
+2025-08-08 18:07:59,962 [INFO] 1 change detected
+2025-08-08 18:08:01,017 [INFO] 1 change detected
+2025-08-08 18:08:02,221 [INFO] 1 change detected
+2025-08-08 18:08:03,676 [INFO] 1 change detected
+2025-08-08 18:08:04,780 [INFO] 1 change detected
+2025-08-08 18:08:06,200 [INFO] 1 change detected
+2025-08-08 18:08:07,204 [INFO] 1 change detected
+2025-08-08 18:08:08,609 [INFO] 1 change detected
+2025-08-08 18:08:09,462 [INFO] 1 change detected
+2025-08-08 18:08:10,717 [INFO] 1 change detected
+2025-08-08 18:08:11,721 [INFO] 1 change detected
+2025-08-08 18:08:12,826 [INFO] 1 change detected
+2025-08-08 18:08:13,880 [INFO] 1 change detected
+2025-08-08 18:08:15,135 [INFO] 1 change detected
+2025-08-08 18:08:16,842 [INFO] 1 change detected
+2025-08-08 18:08:18,249 [INFO] 1 change detected
+2025-08-08 18:08:19,403 [INFO] 1 change detected
+2025-08-08 18:08:20,557 [INFO] 1 change detected
+2025-08-08 18:08:21,763 [INFO] 1 change detected
+2025-08-08 18:08:23,027 [INFO] 1 change detected
+2025-08-08 18:08:24,482 [INFO] 1 change detected
+2025-08-08 18:08:25,786 [INFO] 1 change detected
+2025-08-08 18:08:27,041 [INFO] 1 change detected
+2025-08-08 18:08:28,348 [INFO] 1 change detected
+2025-08-08 18:08:31,429 [INFO] 1 change detected
+2025-08-08 18:08:32,883 [INFO] 1 change detected
+2025-08-08 18:08:34,337 [INFO] 1 change detected
+2025-08-08 18:08:35,641 [INFO] 1 change detected
+2025-08-08 18:08:37,096 [INFO] 1 change detected
+2025-08-08 18:08:38,200 [INFO] 1 change detected
+2025-08-08 18:08:39,656 [INFO] 1 change detected
+2025-08-08 18:08:40,660 [INFO] 1 change detected
+2025-08-08 18:08:41,865 [INFO] 1 change detected
+2025-08-08 18:08:42,869 [INFO] 1 change detected
+2025-08-08 18:08:44,224 [INFO] 1 change detected
+2025-08-08 18:08:45,329 [INFO] 1 change detected
+2025-08-08 18:08:46,537 [INFO] 1 change detected
+2025-08-08 18:08:47,592 [INFO] 1 change detected
+2025-08-08 18:08:48,946 [INFO] 1 change detected
+2025-08-08 18:08:50,000 [INFO] 1 change detected
+2025-08-08 18:08:51,153 [INFO] 1 change detected
+2025-08-08 18:08:52,056 [INFO] 1 change detected
+2025-08-08 18:08:53,361 [INFO] 1 change detected
+2025-08-08 18:08:54,365 [INFO] 1 change detected
+2025-08-08 18:08:55,570 [INFO] 1 change detected
+2025-08-08 18:08:56,774 [INFO] 1 change detected
+2025-08-08 18:08:58,131 [INFO] 1 change detected
+2025-08-08 18:08:59,336 [INFO] 1 change detected
+2025-08-08 18:09:01,305 [INFO] 1 change detected
+2025-08-08 18:09:03,447 [INFO] 1 change detected
+2025-08-08 18:09:04,603 [INFO] 1 change detected
+2025-08-08 18:09:05,507 [INFO] 1 change detected
+2025-08-08 18:09:06,763 [INFO] 1 change detected
+2025-08-08 18:09:07,866 [INFO] 1 change detected
+2025-08-08 18:09:09,021 [INFO] 1 change detected
+2025-08-08 18:09:10,175 [INFO] 1 change detected
+2025-08-08 18:09:11,229 [INFO] 1 change detected
+2025-08-08 18:09:12,435 [INFO] 1 change detected
+2025-08-08 18:09:13,389 [INFO] 1 change detected
+2025-08-08 18:09:14,544 [INFO] 1 change detected
+2025-08-08 18:09:15,750 [INFO] 1 change detected
+2025-08-08 18:09:16,859 [INFO] 1 change detected
+2025-08-08 18:09:18,114 [INFO] 1 change detected
+2025-08-08 18:09:19,168 [INFO] 1 change detected
+2025-08-08 18:09:20,222 [INFO] 1 change detected
+2025-08-08 18:09:21,427 [INFO] 1 change detected
+2025-08-08 18:09:22,432 [INFO] 1 change detected
+2025-08-08 18:09:23,887 [INFO] 1 change detected
+2025-08-08 18:09:25,343 [INFO] 1 change detected
+2025-08-08 18:09:26,447 [INFO] 1 change detected
+2025-08-08 18:09:27,500 [INFO] 1 change detected
+2025-08-08 18:09:28,454 [INFO] 1 change detected
+2025-08-08 18:09:29,669 [INFO] 1 change detected
+2025-08-08 18:09:30,673 [INFO] 1 change detected
+2025-08-08 18:09:31,828 [INFO] 1 change detected
+2025-08-08 18:09:34,881 [INFO] 1 change detected
+2025-08-08 18:09:36,035 [INFO] 1 change detected
+2025-08-08 18:09:37,191 [INFO] 1 change detected
+2025-08-08 18:09:38,398 [INFO] 1 change detected
+2025-08-08 18:09:39,351 [INFO] 1 change detected
+2025-08-08 18:09:40,656 [INFO] 1 change detected
+2025-08-08 18:09:41,709 [INFO] 1 change detected
+2025-08-08 18:09:42,763 [INFO] 1 change detected
+2025-08-08 18:09:43,767 [INFO] 1 change detected
+2025-08-08 18:09:45,073 [INFO] 1 change detected
+2025-08-08 18:09:46,128 [INFO] 1 change detected
+2025-08-08 18:09:47,332 [INFO] 1 change detected
+2025-08-08 18:09:48,536 [INFO] 1 change detected
+2025-08-08 18:09:49,791 [INFO] 1 change detected
+2025-08-08 18:09:50,899 [INFO] 1 change detected
+2025-08-08 18:09:51,953 [INFO] 1 change detected
+2025-08-08 18:09:53,159 [INFO] 1 change detected
+2025-08-08 18:09:54,943 [INFO] 1 change detected
+2025-08-08 18:09:56,901 [INFO] 1 change detected
+2025-08-08 18:09:58,506 [INFO] 1 change detected
+2025-08-08 18:10:00,170 [INFO] 1 change detected
+2025-08-08 18:10:01,324 [INFO] 1 change detected
+2025-08-08 18:10:02,380 [INFO] 1 change detected
+2025-08-08 18:10:05,220 [INFO] 1 change detected
+2025-08-08 18:10:07,658 [INFO] 1 change detected
+2025-08-08 18:10:08,965 [INFO] 1 change detected
+2025-08-08 18:10:11,023 [INFO] 1 change detected
+2025-08-08 18:10:12,377 [INFO] 1 change detected
+2025-08-08 18:10:13,683 [INFO] 1 change detected
+2025-08-08 18:10:14,887 [INFO] 1 change detected
+2025-08-08 18:10:16,543 [INFO] 1 change detected
+2025-08-08 18:10:18,059 [INFO] 1 change detected
+2025-08-08 18:10:19,214 [INFO] 1 change detected
+2025-08-08 18:10:20,871 [INFO] 1 change detected
+2025-08-08 18:10:22,177 [INFO] 1 change detected
+2025-08-08 18:10:23,283 [INFO] 1 change detected
+2025-08-08 18:10:24,688 [INFO] 1 change detected
+2025-08-08 18:10:26,145 [INFO] 1 change detected
+2025-08-08 18:10:27,460 [INFO] 1 change detected
+2025-08-08 18:10:28,614 [INFO] 1 change detected
+2025-08-08 18:10:29,620 [INFO] 1 change detected
+2025-08-08 18:10:31,176 [INFO] 1 change detected
+2025-08-08 18:10:32,431 [INFO] 1 change detected
+2025-08-08 18:10:33,836 [INFO] 1 change detected
+2025-08-08 18:10:35,142 [INFO] 1 change detected
+2025-08-08 18:10:38,685 [INFO] 1 change detected
+2025-08-08 18:10:39,739 [INFO] 1 change detected
+2025-08-08 18:10:40,944 [INFO] 1 change detected
+2025-08-08 18:10:42,356 [INFO] 1 change detected
+2025-08-08 18:10:43,668 [INFO] 1 change detected
+2025-08-08 18:10:45,073 [INFO] 1 change detected
+2025-08-08 18:10:46,078 [INFO] 1 change detected
+2025-08-08 18:10:47,181 [INFO] 1 change detected
+2025-08-08 18:10:48,084 [INFO] 1 change detected
+2025-08-08 18:10:49,338 [INFO] 1 change detected
+2025-08-08 18:10:50,292 [INFO] 1 change detected
+2025-08-08 18:10:51,446 [INFO] 1 change detected
+2025-08-08 18:10:52,651 [INFO] 1 change detected
+2025-08-08 18:10:53,809 [INFO] 1 change detected
+2025-08-08 18:10:54,713 [INFO] 1 change detected
+2025-08-08 18:10:56,019 [INFO] 1 change detected
+2025-08-08 18:10:56,872 [INFO] 1 change detected
+2025-08-08 18:12:31,482 [INFO] 1 change detected
+2025-08-08 18:12:32,957 [INFO] 2 changes detected
+2025-08-08 18:12:34,663 [INFO] 2 changes detected
+2025-08-08 18:12:35,718 [INFO] 1 change detected
+2025-08-08 18:12:37,183 [INFO] 1 change detected
+2025-08-08 18:12:38,437 [INFO] 1 change detected
+2025-08-08 18:12:40,294 [INFO] 1 change detected
+2025-08-08 18:12:41,950 [INFO] 1 change detected
+2025-08-08 18:12:43,005 [INFO] 1 change detected
+2025-08-08 18:12:45,215 [INFO] 1 change detected
+2025-08-08 18:12:47,416 [INFO] 1 change detected
+2025-08-08 18:12:48,678 [INFO] 1 change detected
+2025-08-08 18:12:49,995 [INFO] 1 change detected
+2025-08-08 18:12:51,362 [INFO] Navigating to login …
+2025-08-08 18:12:51,889 [INFO] 1 change detected
+2025-08-08 18:13:00,625 [INFO] 📅  From: 01/08/2025
+2025-08-08 18:13:00,625 [INFO] 📅  To:   05/08/2025
+2025-08-08 18:13:01,466 [INFO] 1 change detected
+2025-08-08 18:13:03,035 [INFO] 1 change detected
+2025-08-08 18:13:04,090 [INFO] 1 change detected
+2025-08-08 18:13:05,373 [INFO] 1 change detected
+2025-08-08 18:13:06,578 [INFO] 1 change detected
+2025-08-08 18:13:07,934 [INFO] 1 change detected
+2025-08-08 18:13:09,041 [INFO] 1 change detected
+2025-08-08 18:13:10,650 [INFO] 1 change detected
+2025-08-08 18:13:10,839 [INFO] Reload triggered
+2025-08-08 18:13:10,914 [INFO] Table ready – starting downloads
+2025-08-08 18:13:12,156 [INFO] 1 change detected
+2025-08-08 18:13:13,000 [INFO] Found 2 download buttons on page 1
+2025-08-08 18:13:13,756 [INFO] 1 change detected
+2025-08-08 18:13:14,405 [INFO] ⬇️    1 saved WAYA MFB_20250804_095959.zip
+2025-08-08 18:13:15,612 [INFO] 2 changes detected
+2025-08-08 18:13:17,320 [INFO] ⬇️    2 saved WAYA MFB_20250802_165959.zip
+2025-08-08 18:13:19,459 [INFO] 2 changes detected
+2025-08-08 18:13:19,539 [INFO] Finished – 2 files downloaded.
+2025-08-08 18:13:20,996 [INFO] 1 change detected
+2025-08-08 18:13:21,899 [INFO] 1 change detected
+2025-08-08 18:13:23,153 [INFO] 1 change detected
+2025-08-08 18:13:24,360 [INFO] 1 change detected
+2025-08-08 18:13:25,614 [INFO] 1 change detected
+2025-08-08 18:13:26,518 [INFO] 1 change detected
+2025-08-08 18:13:27,730 [INFO] 1 change detected
+2025-08-08 18:13:28,986 [INFO] 1 change detected
+2025-08-08 18:13:30,244 [INFO] 1 change detected
+2025-08-08 18:13:31,299 [INFO] 1 change detected
+2025-08-08 18:13:32,609 [INFO] 1 change detected
+2025-08-08 18:13:34,014 [INFO] 1 change detected
+2025-08-08 18:13:35,218 [INFO] 1 change detected
+2025-08-08 18:13:36,824 [INFO] 1 change detected
+2025-08-08 18:13:38,081 [INFO] 1 change detected
+2025-08-08 18:13:39,588 [INFO] 1 change detected
+2025-08-08 18:13:40,692 [INFO] 1 change detected
+2025-08-08 18:13:41,796 [INFO] 1 change detected
+2025-08-08 18:13:42,852 [INFO] 1 change detected
+2025-08-08 18:13:44,257 [INFO] 1 change detected
+2025-08-08 18:13:45,614 [INFO] 1 change detected
+2025-08-08 18:13:46,768 [INFO] 1 change detected
+2025-08-08 18:13:49,177 [INFO] 1 change detected
+2025-08-08 18:13:51,341 [INFO] 1 change detected
+2025-08-08 18:13:52,646 [INFO] 1 change detected
+2025-08-08 18:13:53,952 [INFO] 1 change detected
+2025-08-08 18:13:55,458 [INFO] 1 change detected
+2025-08-08 18:13:56,813 [INFO] 1 change detected
+2025-08-08 18:13:58,319 [INFO] 1 change detected
+2025-08-08 18:14:00,027 [INFO] 1 change detected
+2025-08-08 18:14:01,432 [INFO] 1 change detected
+2025-08-08 18:14:03,457 [INFO] 1 change detected
+2025-08-08 18:14:05,075 [INFO] 1 change detected
+2025-08-08 18:14:06,079 [INFO] 1 change detected
+2025-08-08 18:14:07,684 [INFO] 1 change detected
+2025-08-08 18:14:09,450 [INFO] 1 change detected
+2025-08-08 18:14:10,755 [INFO] 1 change detected
+2025-08-08 18:14:12,109 [INFO] 1 change detected
+2025-08-08 18:14:14,066 [INFO] 1 change detected
+2025-08-08 18:14:15,722 [INFO] 1 change detected
+2025-08-08 18:14:17,027 [INFO] 1 change detected
+2025-08-08 18:14:18,835 [INFO] 1 change detected
+2025-08-08 18:14:21,741 [INFO] 1 change detected
+2025-08-08 18:14:23,197 [INFO] 1 change detected
+2025-08-08 18:14:25,004 [INFO] 1 change detected
+2025-08-08 18:14:26,309 [INFO] 1 change detected
+2025-08-08 18:14:27,865 [INFO] 1 change detected
+2025-08-08 18:14:29,069 [INFO] 1 change detected
+2025-08-08 18:14:30,374 [INFO] 1 change detected
+2025-08-08 18:14:31,327 [INFO] 1 change detected
+2025-08-08 18:14:32,381 [INFO] 1 change detected
+2025-08-08 18:14:33,394 [INFO] 1 change detected
+2025-08-08 18:14:34,498 [INFO] 1 change detected
+2025-08-08 18:14:35,452 [INFO] 1 change detected
+2025-08-08 18:14:36,656 [INFO] 1 change detected
+2025-08-08 18:14:37,612 [INFO] 1 change detected
+2025-08-08 18:14:38,868 [INFO] 1 change detected
+2025-08-08 18:14:39,822 [INFO] 1 change detected
+2025-08-08 18:14:41,227 [INFO] 1 change detected
+2025-08-08 18:14:42,230 [INFO] 1 change detected
+2025-08-08 18:14:43,442 [INFO] 1 change detected
+2025-08-08 18:14:44,399 [INFO] 1 change detected
+2025-08-08 18:14:45,553 [INFO] 1 change detected
+2025-08-08 18:14:46,707 [INFO] 1 change detected
+2025-08-08 18:14:48,368 [INFO] 1 change detected
+2025-08-08 18:14:49,826 [INFO] 1 change detected
+2025-08-08 18:14:51,299 [INFO] 1 change detected
+2025-08-08 18:14:55,507 [INFO] 1 change detected
+2025-08-08 18:14:56,712 [INFO] 1 change detected
+2025-08-08 18:14:58,219 [INFO] 1 change detected
+2025-08-08 18:14:59,322 [INFO] 1 change detected
+2025-08-08 18:15:00,327 [INFO] 1 change detected
+2025-08-08 18:15:01,633 [INFO] 1 change detected
+2025-08-08 18:15:02,688 [INFO] 1 change detected
+2025-08-08 18:15:03,993 [INFO] 1 change detected
+2025-08-08 18:15:05,297 [INFO] 1 change detected
+2025-08-08 18:15:06,502 [INFO] 1 change detected
+2025-08-08 18:15:07,758 [INFO] 1 change detected
+2025-08-08 18:15:09,164 [INFO] 1 change detected
+2025-08-08 18:15:10,318 [INFO] 1 change detected
+2025-08-08 18:15:11,421 [INFO] 1 change detected
+2025-08-08 18:15:12,374 [INFO] 1 change detected
+2025-08-08 18:15:13,528 [INFO] 1 change detected
+2025-08-08 18:15:14,583 [INFO] 1 change detected
+2025-08-08 18:15:15,687 [INFO] 1 change detected
+2025-08-08 18:15:16,842 [INFO] 1 change detected
+2025-08-08 18:15:18,048 [INFO] 1 change detected
+2025-08-08 18:15:19,153 [INFO] 1 change detected
+2025-08-08 18:15:20,357 [INFO] 1 change detected
+2025-08-08 18:15:21,712 [INFO] 1 change detected
+2025-08-08 18:15:22,866 [INFO] 1 change detected
+2025-08-08 18:15:24,672 [INFO] 1 change detected
+2025-08-08 18:15:27,946 [INFO] 1 change detected
+2025-08-08 18:15:29,401 [INFO] 1 change detected
+2025-08-08 18:15:31,157 [INFO] 2 changes detected
+2025-08-08 18:15:31,158 [WARNING] WatchFiles detected changes in 'src/NIP_bot.py'. Reloading...
+2025-08-08 18:15:31,163 [INFO] Shutting down
+2025-08-08 18:15:31,266 [INFO] Waiting for application shutdown.
+2025-08-08 18:15:31,270 [INFO] Application shutdown complete.
+2025-08-08 18:15:31,272 [INFO] Finished server process [16520]
+2025-08-08 18:15:33,211 [INFO] 1 change detected
+2025-08-08 18:15:35,069 [INFO] 1 change detected
+2025-08-08 18:15:37,026 [INFO] 1 change detected
+2025-08-08 18:15:38,840 [INFO] 1 change detected
+2025-08-08 18:15:40,196 [INFO] 1 change detected
+2025-08-08 18:15:40,643 [INFO] Started server process [17151]
+2025-08-08 18:15:40,646 [INFO] Waiting for application startup.
+2025-08-08 18:15:40,648 [INFO] Application startup complete.
+2025-08-08 18:15:41,400 [INFO] 5 changes detected
+2025-08-08 18:15:41,404 [WARNING] WatchFiles detected changes in 'src/ISW_bot.py'. Reloading...
+2025-08-08 18:15:41,455 [INFO] Shutting down
+2025-08-08 18:15:41,556 [INFO] Waiting for application shutdown.
+2025-08-08 18:15:41,558 [INFO] Application shutdown complete.
+2025-08-08 18:15:41,561 [INFO] Finished server process [17151]
+2025-08-08 18:15:43,573 [INFO] 1 change detected
+2025-08-08 18:15:45,905 [INFO] 1 change detected
+2025-08-08 18:15:47,674 [INFO] 1 change detected
+2025-08-08 18:15:48,879 [INFO] 1 change detected
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     2025-08-11 09:16:42,579 [INFO] Will watch for changes in these directories: ['/home/taiwo_rachel/projects/NIP-Download-Bot']
+2025-08-11 09:16:42,598 [INFO] Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-08-11 09:16:42,605 [INFO] Started reloader process [806] using WatchFiles
+2025-08-11 09:16:47,866 [INFO] Started server process [814]
+2025-08-11 09:16:47,868 [INFO] Waiting for application startup.
+2025-08-11 09:16:47,870 [INFO] Application startup complete.
+2025-08-11 09:16:48,408 [INFO] 1 change detected
+2025-08-11 09:16:49,060 [INFO] 1 change detected
+2025-08-11 09:16:49,713 [INFO] 1 change detected
+2025-08-11 09:17:29,966 [INFO] Navigating to login …
+2025-08-11 09:17:30,829 [INFO] 1 change detected
+2025-08-11 09:17:31,531 [INFO] 1 change detected
+2025-08-11 09:17:32,234 [INFO] 1 change detected
+2025-08-11 09:17:32,887 [INFO] 1 change detected
+2025-08-11 09:17:39,168 [INFO] 📅  From: 01/08/2025
+2025-08-11 09:17:39,168 [INFO] 📅  To:   10/08/2025
+2025-08-11 09:17:39,793 [INFO] 1 change detected
+2025-08-11 09:17:51,286 [INFO] Reload triggered
+2025-08-11 09:17:51,320 [INFO] Table ready – starting downloads
+2025-08-11 09:17:51,375 [INFO] 1 change detected
+2025-08-11 09:17:53,349 [INFO] Found 3 download buttons on page 1
+2025-08-11 09:17:53,938 [INFO] 1 change detected
+2025-08-11 09:17:53,969 [INFO] ⬇️    1 saved WAYA MFB_20250808_105959.zip
+2025-08-11 09:17:55,545 [INFO] ⬇️    2 saved WAYA MFB_20250804_095959.zip
+2025-08-11 09:17:56,202 [INFO] 1 change detected
+2025-08-11 09:17:56,916 [INFO] 1 change detected
+2025-08-11 09:17:57,188 [INFO] ⬇️    3 saved WAYA MFB_20250802_165959.zip
+2025-08-11 09:17:57,734 [INFO] 1 change detected
+2025-08-11 09:17:58,246 [INFO] Finished – 3 files downloaded.
+2025-08-11 09:17:58,450 [INFO] 1 change detected
+2025-08-11 09:20:03,606 [INFO] Navigating to login …
+2025-08-11 09:20:04,161 [INFO] 1 change detected
+2025-08-11 09:20:04,813 [INFO] 1 change detected
+2025-08-11 09:20:28,730 [INFO] Calendar dates filled and applied
+2025-08-11 09:20:29,279 [INFO] Report type set to: 0
+2025-08-11 09:20:29,365 [INFO] 1 change detected
+2025-08-11 09:20:31,356 [INFO] Search triggered by button click
+2025-08-11 09:20:31,923 [INFO] 1 change detected
+2025-08-11 09:20:33,397 [INFO] Table reloaded – starting downloads
+2025-08-11 09:20:33,435 [INFO] Page 1 – 20 download links found
+2025-08-11 09:20:33,779 [INFO] 1 change detected
+2025-08-11 09:20:39,046 [INFO] ⬇️    1 saved WYM_Daily_Comprehensive_Computation_Report_1ST_SESSION_2025_08_01_074138.xls
+2025-08-11 09:20:39,626 [INFO] 1 change detected
+2025-08-11 09:20:42,987 [INFO] ⬇️    2 saved WYM_IPG_Failed_Report_2025_08_01_112446.csv
+2025-08-11 09:20:43,542 [INFO] 1 change detected
+2025-08-11 09:20:44,195 [INFO] 1 change detected
+2025-08-11 09:20:44,949 [INFO] 1 change detected
+2025-08-11 09:20:46,973 [INFO] ⬇️    3 saved WYM_Daily_Comprehensive_Computation_Report_3RD_SESSION_2025_08_01_133218.xls
+2025-08-11 09:20:47,564 [INFO] 1 change detected
+2025-08-11 09:20:48,166 [INFO] 1 change detected
+2025-08-11 09:20:48,768 [INFO] 1 change detected
+2025-08-11 09:20:50,998 [INFO] ⬇️    4 saved WYM_IPG_Failed_Report_2025_08_02_145323.csv
+2025-08-11 09:20:51,430 [INFO] 1 change detected
+2025-08-11 09:20:52,084 [INFO] 1 change detected
+2025-08-11 09:20:52,686 [INFO] 1 change detected
+2025-08-11 09:20:55,003 [INFO] ⬇️    5 saved WYM_IPG_Failed_Report_2025_08_03_083138.csv
+2025-08-11 09:20:55,248 [INFO] 1 change detected
+2025-08-11 09:20:59,936 [INFO] ⬇️    6 saved WYM_IPG_Failed_Report_2025_08_04_011011.csv
+2025-08-11 09:21:00,212 [INFO] 1 change detected
+2025-08-11 09:21:00,864 [INFO] 1 change detected
+2025-08-11 09:21:04,369 [INFO] ⬇️    7 saved WYM_Daily_Comprehensive_Computation_Report_1ST_SESSION_2025_08_04_073357.xls
+2025-08-11 09:21:04,632 [INFO] 1 change detected
+2025-08-11 09:21:08,246 [INFO] ⬇️    8 saved WYM_Daily_Comprehensive_Computation_Report_2ND_SESSION_2025_08_04_103256.xls
+2025-08-11 09:21:08,345 [INFO] 1 change detected
+2025-08-11 09:21:14,851 [INFO] ⬇️    9 saved WYM_Daily_Comprehensive_Computation_Report_3RD_SESSION_2025_08_04_125422.xls
+2025-08-11 09:21:15,633 [INFO] 1 change detected
+2025-08-11 09:21:16,335 [INFO] 1 change detected
+2025-08-11 09:21:17,037 [INFO] 1 change detected
+2025-08-11 09:21:17,638 [INFO] 1 change detected
+2025-08-11 09:21:18,831 [INFO] ⬇️   10 saved WYM_IPG_Failed_Report_2025_08_05_012722.csv
+2025-08-11 09:21:19,099 [INFO] 1 change detected
+2025-08-11 09:21:19,752 [INFO] 1 change detected
+2025-08-11 09:21:22,665 [INFO] ⬇️   11 saved WYM_Daily_Comprehensive_Computation_Report_1ST_SESSION_2025_08_05_070803.xls
+2025-08-11 09:21:23,083 [INFO] 1 change detected
+2025-08-11 09:21:23,735 [INFO] 1 change detected
+2025-08-11 09:21:26,519 [INFO] ⬇️   12 saved WYM_Daily_Comprehensive_Computation_Report_2ND_SESSION_2025_08_05_111027.xls
+2025-08-11 09:21:26,946 [INFO] 1 change detected
+2025-08-11 09:21:30,296 [INFO] ⬇️   13 saved WYM_IPG_Failed_Report_2025_08_06_010602.csv
+2025-08-11 09:21:30,971 [INFO] 1 change detected
+2025-08-11 09:21:34,009 [INFO] ⬇️   14 saved WYM_Daily_Comprehensive_Computation_Report_1ST_SESSION_2025_08_06_072951.xls
+2025-08-11 09:21:34,184 [INFO] 1 change detected
+2025-08-11 09:21:37,919 [INFO] ⬇️   15 saved WYM_Daily_Comprehensive_Computation_Report_2ND_SESSION_2025_08_06_105706.xls
+2025-08-11 09:21:38,648 [INFO] 1 change detected
+2025-08-11 09:21:39,250 [INFO] 1 change detected
+2025-08-11 09:21:39,852 [INFO] 1 change detected
+2025-08-11 09:21:42,158 [INFO] ⬇️   16 saved WYM_IPG_Failed_Report_2025_08_07_012157.csv
+2025-08-11 09:21:42,411 [INFO] 1 change detected
+2025-08-11 09:21:48,981 [INFO] ⬇️   17 saved WYM_Daily_Comprehensive_Computation_Report_1ST_SESSION_2025_08_07_073543.xls
+2025-08-11 09:21:49,503 [INFO] 1 change detected
+2025-08-11 09:21:50,205 [INFO] 1 change detected
+2025-08-11 09:21:50,857 [INFO] 1 change detected
+2025-08-11 09:21:52,933 [INFO] ⬇️   18 saved WYM_Daily_Comprehensive_Computation_Report_2ND_SESSION_2025_08_07_104439.xls
+2025-08-11 09:21:53,524 [INFO] 1 change detected
+2025-08-11 09:21:54,226 [INFO] 1 change detected
+2025-08-11 09:21:54,879 [INFO] 1 change detected
+2025-08-11 09:21:57,070 [INFO] ⬇️   19 saved WYM_Daily_Comprehensive_Computation_Report_3RD_SESSION_2025_08_07_133025.xls
+2025-08-11 09:21:57,492 [INFO] 1 change detected
+2025-08-11 09:22:00,991 [INFO] ⬇️   20 saved WYM_IPG_Failed_Report_2025_08_08_011533.csv
+2025-08-11 09:22:01,307 [INFO] 1 change detected
+2025-08-11 09:22:01,909 [INFO] 1 change detected
+2025-08-11 09:22:04,490 [INFO] Page 2 – 4 download links found
+2025-08-11 09:22:05,120 [INFO] 1 change detected
+2025-08-11 09:22:05,722 [INFO] 1 change detected
+2025-08-11 09:22:07,341 [INFO] ⬇️   21 saved WYM_Daily_Comprehensive_Computation_Report_1ST_SESSION_2025_08_08_074329.xls
+2025-08-11 09:22:07,680 [INFO] 1 change detected
+2025-08-11 09:22:11,355 [INFO] ⬇️   22 saved WYM_Daily_Comprehensive_Computation_Report_2ND_SESSION_2025_08_08_105252.xls
+2025-08-11 09:22:12,097 [INFO] 1 change detected
+2025-08-11 09:22:12,749 [INFO] 1 change detected
+2025-08-11 09:22:15,352 [INFO] ⬇️   23 saved WYM_IPG_Failed_Report_2025_08_09_012221.csv
+2025-08-11 09:22:16,010 [INFO] 1 change detected
+2025-08-11 09:22:16,714 [INFO] 1 change detected
+2025-08-11 09:22:19,404 [INFO] ⬇️   24 saved WYM_IPG_Failed_Report_2025_08_10_011802.csv
+2025-08-11 09:22:19,929 [INFO] 1 change detected
+2025-08-11 09:22:23,180 [INFO] Finished – 24 files downloaded.
+2025-08-11 09:22:23,375 [INFO] 1 change detected
+2025-08-11 10:18:28,960 [INFO] Shutting down
+2025-08-11 10:18:29,113 [INFO] Waiting for application shutdown.
+2025-08-11 10:18:29,122 [INFO] Application shutdown complete.
+2025-08-11 10:18:29,133 [INFO] Finished server process [814]
+2025-08-11 10:18:29,797 [INFO] Stopping reloader process [806]
