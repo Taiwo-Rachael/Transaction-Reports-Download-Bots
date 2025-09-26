@@ -1,0 +1,40 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables and secrets
+.env
+.env.*
+secrets.json
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# IDE/project files
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs and runtime files
+*.logs
+*.pid
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.eggs/
+*.whl
+*.tar.gz
+
+# Docker files (optional)
+*.tar
+docker-compose.override.yml

@@ -1,0 +1,44 @@
+# Bytecode & cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Environment & config files
+.env
+.env.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Docker files 
+Dockerfile
+.dockerignore
+
+# Testing & development
+tests/
+*.log
+*.md
+*.toml
+*.yml
+*.yaml
+
+# IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.tar.gz
