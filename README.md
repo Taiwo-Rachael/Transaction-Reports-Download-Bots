@@ -2,16 +2,10 @@
 FastAPI service for bots that download transaction reports from NIBSS and INTERSWITCH report portals. The application is containerized with Docker for seamless deployment.
   
 ## Table of Contents
-1. [Features](#features)
-2. [Project Structure](#project-structure)
-3. [Local Development](#local-development)
-4. [Docker Setup](#docker-setup)
-5. [Configure Environment Variables](#configure-environment-variables)
-
-## Features
-__FastAPI Application:__ Enables bots to log in and download transaction reports from third-party platforms (Interswitch, NIBSS) using Waya Multilinks Technologies’ credentials.  
-
-__Dockerized:__ Consistent, reproducible environments for local and production builds. 
+1. [Project Structure](#project-structure)
+2. [Local Development](#local-development)
+3. [Docker Setup](#docker-setup)
+4. [Configure Environment Variables](#configure-environment-variables)
 
 ## Project Structure
 ```bash
